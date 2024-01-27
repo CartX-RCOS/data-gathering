@@ -1,0 +1,14 @@
+{
+  "name": "data-gathering",
+  "version": "1.0.0",
+  "description": "database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "CartX-team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
