@@ -43,5 +43,5 @@ async function connectToSql() {
   }
 }
 
-// call the function
+// Call the function
 connectToSql();
