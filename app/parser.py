@@ -13,6 +13,6 @@ def process_scraped_data():
     scraped_data = scraped_data_response.json()
 
     # Here we will process scraped_data with our parser model
-    processed_data = {"processed_data": scraped_data}
+    processed_data = {"Parsed Data": scraped_data}
 
     return jsonify(processed_data)
