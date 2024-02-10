@@ -1,0 +1,334 @@
+{
+    "categories": [
+        "Health & Medicine",
+        "Pain & Fever",
+        "Migraine Relief"
+    ],
+    "name": "advil-migraine-pain-reliever-200-mg-ibuprofen-liquid-filled-capsules-20-ct",
+    "price": "6.59",
+    "sizes": [],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205_5.jpg"
+    ]
+}{
+    "categories": [
+        "Health & Medicine",
+        "Pain & Fever",
+        "Pain Relievers"
+    ],
+    "name": "advil-liqui-gels-200-mg-ibuprofen-capsules",
+    "price": "14.49",
+    "sizes": [
+        "80 CT",
+        "160 CT",
+        "200 Count"
+    ],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730169400.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730169400_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730169400_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730169400_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730169400_5.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Pain & Fever",
+        "Pain Relievers"
+    ],
+    "name": "advil-pain-reliever-fever-reducer-200-mg-ibuprofen-caplets-100-ct",
+    "price": "11.99",
+    "sizes": [],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730160407.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730160407_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730160407_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730160407_4.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Pain & Fever",
+        "Pain Relievers"
+    ],
+    "name": "advil-liqui-gels-minis-200-mg-ibuprofen-capsules",
+    "price": "5.49",
+    "sizes": [
+        "20 Count",
+        "80 Count",
+        "160 Count",
+        "200 Count"
+    ],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305731769203.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305731769203_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305731769203_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305731769203_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305731769203_5.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Trial & Travel Size Health & Medicine"
+    ],
+    "name": "advil-pain-reliever-fever-reducer-200-mg-ibuprofen-tablets",
+    "price": "4.99",
+    "sizes": [
+        "20 Count",
+        "24 Count",
+        "50 Count",
+        "100 Count",
+        "200 Count",
+        "300 Count"
+    ],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730151207.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730151207_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730151207_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730151207_4.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Pain & Fever",
+        "Pain Relievers"
+    ],
+    "name": "advil-dual-action-acetaminophen-and-ibuprofen-caplets",
+    "price": "13.49",
+    "sizes": [
+        "36 Count",
+        "72 Count",
+        "144 Count"
+    ],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730147361.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730147361_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730147361_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730147361_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730147361_5.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730147361_6.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Pain & Fever",
+        "Oral Pain Relief"
+    ],
+    "name": "advil-liqui-gels-easy-open-arthritis-cap-160-ct",
+    "price": "22.99",
+    "sizes": [],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730149662.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730149662_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730149662_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730149662_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730149662_5.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Cough, Cold & Flu",
+        "Sleep & Snoring Aids",
+        "Sleep Medicine & Supplements"
+    ],
+    "name": "advil-pm-liqui-gels-pain-reliever-nighttime-sleep-aid-capsules",
+    "price": "12.49",
+    "sizes": [
+        "40 Count",
+        "80 Count"
+    ],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730167437.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730167437_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730167437_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730167437_4.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Pain & Fever",
+        "Pain Relievers"
+    ],
+    "name": "advil-pm-pain-reliever-nighttime-sleep-aid-coated-caplets",
+    "price": "20.79",
+    "sizes": [
+        "20 Count",
+        "120 Count"
+    ],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730164207.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730164207_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730164207_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730164207_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730164207_5.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730164207_6.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730164207_7.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730164207_8.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730164207_9.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Cough, Cold & Flu",
+        "Cold & Flu Medicine"
+    ],
+    "name": "advil-sinus-congestion-pain-relief-200mg-ibuprofen-non-drowsy-10-ct",
+    "price": "9.99",
+    "sizes": [],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730199117.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730199117_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730199117_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730199117_5.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Pain & Fever",
+        "Pain Relievers"
+    ],
+    "name": "advil-dual-action-acetaminophen-and-ibuprofen-caplets",
+    "price": "13.49",
+    "sizes": [
+        "18 CT",
+        "72 CT"
+    ],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730145183.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730145183_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730145183_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730145183_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730145183_5.jpg"
+    ]
+}
+{
+    "categories": [
+        "Baby & Kids",
+        "Baby & Kids Health",
+        "Baby & Kids Pain & Fever"
+    ],
+    "name": "childrens-advil-ibuprofen-oral-suspension-4-oz",
+    "price": "8.49",
+    "sizes": [
+        "Raspberry",
+        "Grape",
+        "White Grape",
+        "Bubble Gum"
+    ],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730174305.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730174305_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730174305_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730174305_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730174305_5.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Cough, Cold & Flu",
+        "Cold & Flu Medicine"
+    ],
+    "name": "advil-multi-symptom-cold-flu-coated-tablet-200-mg-ibuprofen-10-count",
+    "price": "9.99",
+    "sizes": [],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730190107.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730190107_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730190107_3.jpg"
+    ]
+}
+{
+    "categories": [
+        "Baby & Kids",
+        "Baby & Kids Health",
+        "Baby & Kids Pain & Fever"
+    ],
+    "name": "childrens-advil-junior-strength-ibuprofen-100-mg-chewable-tablets-grape-24-ct",
+    "price": "6.99",
+    "sizes": [],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730179201.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730179201_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730179201_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730179201_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730179201_5.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Cough, Cold & Flu",
+        "Cold & Flu Medicine"
+    ],
+    "name": "advil-cold-and-sinus-relief-coated-caplets-non-drowsy-pain-reliever-fever-reducer",
+    "price": "19.99",
+    "sizes": [
+        "20 Count"
+    ],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730180214.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730180214_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730180214_3.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Allergy & Sinus",
+        "Allergy Medicine"
+    ],
+    "name": "advil-allergy-sinus-relief-coated-caplets-pain-reliever-allergy-relief-20-ct",
+    "price": "18.49",
+    "sizes": [],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730188104.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730188104_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730188104_3.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Cough, Cold & Flu",
+        "Cold & Flu Medicine"
+    ],
+    "name": "advil-cold-and-sinus-relief-liqui-gels-liquid-filled-capsules-pain-reliever-fever-reducer-32-ct",
+    "price": "19.99",
+    "sizes": [],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730184328.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730184328_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730184328_3.jpg"
+    ]
+}
+{
+    "categories": [
+        "Health & Medicine",
+        "Pain & Fever",
+        "Migraine Relief"
+    ],
+    "name": "advil-migraine-pain-reliever-200-mg-ibuprofen-liquid-filled-capsules-20-ct",
+    "price": "6.59",
+    "sizes": [],
+    "images": [
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205_2.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205_3.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205_4.jpg",
+        "https://www.cvs.com/bizcontent/merchandising/productimages/large/305730168205_5.jpg"
+    ]
+}
