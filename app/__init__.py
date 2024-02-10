@@ -13,6 +13,9 @@ def create_app():
     from .database import database as database_routes
     app.register_blueprint(database_routes)
 
+    from .app import app as app_routes
+    app.register_blueprint(app_routes)
+
     # MySQL database settings
     app.config['MYSQL_HOST'] = 'localhost'
     app.config['MYSQL_USER'] = 'your_mysql_username'

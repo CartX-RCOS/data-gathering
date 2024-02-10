@@ -3,7 +3,7 @@ import requests
 
 database = Blueprint('database', __name__)
 
-@database.route('/put-data')
+@database.route('/put-data', methods=['POST'])
 def databasedata():
     process_data_response = requests.get("http://127.0.0.1:3000/process-data")
     if process_data_response.status_code != 200:
