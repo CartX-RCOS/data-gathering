@@ -3,7 +3,7 @@ from flask import render_template, redirect, url_for, Blueprint
 
 app = Blueprint('app', __name__)
 
-@app.route('/dashboard')
+@app.route('/')
 def dashboard():
     scraping_status = "Not started"  # Set initial status
     return render_template('./dashboard.html', scraping_status=scraping_status)

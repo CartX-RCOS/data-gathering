@@ -16,6 +16,9 @@ def create_app():
     from .app import app as app_routes
     app.register_blueprint(app_routes)
 
+    from .scraper import scraper as scrape_routes
+    app.register_blueprint(scrape_routes)
+
     # MySQL database settings
     app.config['MYSQL_HOST'] = 'localhost'
     app.config['MYSQL_USER'] = 'your_mysql_username'

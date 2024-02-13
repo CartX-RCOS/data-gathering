@@ -1,6 +1,7 @@
 import requests
-from bs4 import BeautifulSoup
+import re
+import json
+from flask import Blueprint, jsonify, request
 
-def scrape_store():
-    # Your scraping logic here
-    return {"data": "Scraped data"}
+scraper = Blueprint('scraper',__name__)
+

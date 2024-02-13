@@ -5,13 +5,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 </head>
 <body>
-    <h1>Dashboard</h1>
-    <form action="/put-data" method="POST">
-        <button type="submit">Run Web Scraping</button>
-    </form>
-    <h2>Scraping Status:</h2>
-    <p>{{ scraping_status }}</p>
+    <div>
+        <button id="scrape-cvs-button" onclick="scrapeCVS()">SCRAPE CVS</button>
+        <ul>
+            <li class="item-to-scrape">Advil</li>
+            <!-- <li class="item-to-scrape">Pain Killer</li> -->
+        </ul>
+    </div>
 </body>
+    <script>
+
+        async function scrapeCVS() {
+            // Collect list items into an array
+            const items = Array.from(document.querySelectorAll('.item-to-scrape')).map(li => li.textContent);
+
+            // Construct the request body
+            const requestBody = {
+                items: items
+            };
+
+            // Make the POST request to the Flask backend using Axios
+            const response = await axios.post('/CVS', requestBody)
+            console.log(response.data);
+        }
+    </script>
 </html>
