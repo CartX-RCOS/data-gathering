@@ -23,13 +23,27 @@
             const items = Array.from(document.querySelectorAll('.item-to-scrape')).map(li => li.textContent);
 
             // Construct the request body
-            const requestBody = {
+            let requestBody = {
                 items: items
             };
 
             // Make the POST request to the Flask backend using Axios
-            const response = await axios.post('/CVS', requestBody)
-            console.log(response.data);
+            const scrapedData = await axios.post('/CVS', requestBody)
+            console.log(scrapedData.data);
+
+            requestBody = {
+                items: scrapedData.data
+            };
+
+            const parsedData = await axios.post('/process-data',requestBody)
+            console.log(parsedData.data);
+
+            requestBody = {
+                items: parsedData.data
+            };
+
+            const Database = await axios.post('/put-data',requestBody)
+            console.log(Database.data);
         }
     </script>
 </html>
