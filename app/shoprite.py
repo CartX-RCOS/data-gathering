@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import asyncio
 import json
 import os
+import time
 
 # checks if the xpath is valid or not
 async def is_xpath_valid(xpath, driver):
@@ -37,8 +38,37 @@ async def scrape_shoprite_website(item_name):
         driver.get(url)
 
         # scraping logic here
+        # Example: scroll the page
+        scroll_pause_time = 1.5  # Adjust based on your needs
+        last_height = driver.execute_script("return document.body.scrollHeight")
+
+        while True:
+            # Scroll down to the bottom of the page
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+            # Wait for page to load
+            time.sleep(scroll_pause_time)
+
+            # Calculate new scroll height and compare with last scroll height
+            new_height = driver.execute_script("return document.body.scrollHeight")
+            if new_height == last_height:
+                break
+            last_height = new_height
+
+        # items to scrape by xpath
+        for item_number in range(1, 60):  
+            xpath = f'//*[@id="pageMain"]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/section[2]/div[2]/div[${item_number}]/div[1]/div[6]`;'
+            if is_xpath_valid(xpath, driver):
+                element = driver.find_element(By.XPATH, xpath)
+                text = element.text
+                products.append(text)
 
     finally:
         driver.quit()
 
     return products
+
+if __name__ == '__main__':
+    item = 'apple'
+    data = asyncio.run(scrape_shoprite_website(item))
+    print(data);
