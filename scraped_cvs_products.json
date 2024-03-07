@@ -1,0 +1,1342 @@
+[
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "cape-cod-less-fat-original-kettle-cooked-potato-chips-8-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/20685000294.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/20685000294_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/20685000294_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/20685000294_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/20685000294_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/20685000294_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/20685000294_7.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "gold-emblem-sea-salt-kettle-cooked-waffle-chips-6-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428532362.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428532362_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428532362_3.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "lay-s-potato-chips-classic-8-oz",
+        "price": "4.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840019914.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840019914_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840019914_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840019914_4.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "terra-mediterranean-garlic-herbs-real-vegetable-chips-5-oz",
+        "price": "4.39",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/728229014522.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/728229014522_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/728229014522_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/728229014522_4.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "kettle-brand-sea-salt-and-vinegar-kettle-potato-chips-7-5-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/84114902160.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/84114902160_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/84114902160_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/84114902160_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/84114902160_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/84114902160_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/84114902160_7.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "doritos-nacho-cheese-flavored-tortilla-chips-9-25-oz",
+        "price": "6.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28400516464.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28400516464_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28400516464_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28400516464_4.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "gold-emblem-aged-cheddar-black-pepper-kettle-cooked-waffle-chips-6-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428473146.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428473146_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428473146_3.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Diet & Nutrition",
+            "Protein",
+            "Protein Bars & Snacks"
+        ],
+        "name": "quest-nutrition-tortilla-style-protein-chips-1-1-oz",
+        "price": "3.79",
+        "sizes": [
+            "Nacho Cheese",
+            "Ranch"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/88884900663.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/88884900663_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/88884900663_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/88884900663_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/88884900663_5.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "pringles-original-potato-crisps-5-2-oz",
+        "price": "3.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/38000138416.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/38000138416_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/38000138416_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/38000138416_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/38000138416_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/38000138416_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/38000138416_7.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "ruffles-potato-chips-cheddar-sour-cream-flavored-2-5-oz",
+        "price": "2.69",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032442.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032442_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032442_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032442_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032442_5.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "lay-s-potato-chips-barbecue-flavored-2-62-oz",
+        "price": "2.69",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032420.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032420_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032420_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032420_4.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "lay-s-potato-chips-barbecue-flavored-7-75-oz",
+        "price": "4.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840019961.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840019961_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840019961_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840019961_4.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "sensible-portions-sea-salt-garden-veggie-straws-5-oz",
+        "price": "4.59",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/829515302108.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/829515302108_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/829515302108_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/829515302108_4.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "doritos-tortilla-chips-cool-ranch-flavored-2-75-oz",
+        "price": "2.69",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032504.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032504_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032504_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032504_4.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "t-g-i-fridays-potato-skins-cheddar-bacon-snack-chips-4-5-oz",
+        "price": "1.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72049590806.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72049590806_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72049590806_3.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "combos-cheddar-cheese-baked-pretzel-snacks-3-oz",
+        "price": "1.49",
+        "sizes": [
+            "Cheddar Cheese",
+            "Pizzeria"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41419781548.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41419781548_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41419781548_3.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "terra-original-sea-salt-real-vegetable-chips-5-oz",
+        "price": "5.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/728229014508.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72822901450.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/728229014508_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/728229014508_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/728229014508_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72822901450_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72822901450_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72822901450_4.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "takis-blue-heat-rolls-hot-chili-pepper-flavored-spicy-tortilla-chips-3-25-oz",
+        "price": "2.89",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/75752804811.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/75752804811_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/75752804811_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/75752804811_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/75752804811_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/75752804811_6.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "gold-emblem-restaurant-style-tortilla-chips-18-oz",
+        "price": "4.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428647714.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428647714_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428647714_3.jpg"
+        ]
+    },
+    {
+        "item": "Chips",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "lay-s-wavy-potato-chips-original-7-75-oz",
+        "price": "4.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840004380.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840004380_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840004380_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840004380_4.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Baby & Kids",
+            "Feeding & Nursing",
+            "Baby Food"
+        ],
+        "name": "happybaby-apples-kale-avocado-organic-food-pouch-4-oz",
+        "price": "2.19",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/819573013191.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/819573013191_2.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Juices"
+        ],
+        "name": "apple-eve-fruitables-apple-harvest-8ct",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/76301240155.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/76301240155_2.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Baby & Kids",
+            "Feeding & Nursing",
+            "Baby Food"
+        ],
+        "name": "gerber-apple-pear-and-peach-food-pouch-3-5-oz",
+        "price": "2.19",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15000044749.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15000044749_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15000044749_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15000044749_4.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chewy & Gummy Candy"
+        ],
+        "name": "laffy-taffy-ropes-sour-apple-24ct-19-4-oz",
+        "price": "14.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/79200369675.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/79200369675_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/79200369675_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/79200369675_4.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Soda"
+        ],
+        "name": "dry-sparkling-fuji-apple-dry-4-pack-48-oz",
+        "price": "7.59",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/851818001532.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Baby & Kids",
+            "Baby & Kids Health",
+            "Baby & Kids Electrolytes"
+        ],
+        "name": "liquid-i-v-kids-apple-stick-packs",
+        "price": "16.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/85003928679.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/85003928679_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/85003928679_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/85003928679_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/85003928679_5.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Vitamins",
+            "Supplements",
+            "Apple Cider Vinegar"
+        ],
+        "name": "nature-s-truth-apple-cider-vinegar-1200-mg",
+        "price": "10.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/840093102003.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/840093102003_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/840093102003_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/840093102003_4.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Vitamins",
+            "Supplements",
+            "Apple Cider Vinegar"
+        ],
+        "name": "nature-s-bounty-apple-cider-vinegar-480-mg-200-ct",
+        "price": "15.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/74312785702.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Vitamins",
+            "Supplements",
+            "Apple Cider Vinegar"
+        ],
+        "name": "cvs-health-apple-cider-vinegar-gummies-60-ct",
+        "price": "13.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428646038.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428646038_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428646038_3.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Vitamins",
+            "Supplements",
+            "Apple Cider Vinegar"
+        ],
+        "name": "cvs-health-apple-cider-vinegar-16-oz",
+        "price": "5.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428649435.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428649435_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428649435_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428649435_4.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Vitamins",
+            "Supplements",
+            "Apple Cider Vinegar"
+        ],
+        "name": "nature-s-truth-apple-cider-vinegar-gummies-600-mg-75-ct",
+        "price": "16.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/840093113726.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/840093113726_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/840093113726_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/840093113726_4.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Vitamins",
+            "Supplements",
+            "Apple Cider Vinegar"
+        ],
+        "name": "cvs-health-organic-apple-cider-vinegar-16-oz",
+        "price": "5.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428477311.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428477311_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428477311_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428477311_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428477311_5.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Vitamins",
+            "Herbals",
+            "Turmeric"
+        ],
+        "name": "cvs-health-apple-cider-vinegar-blend-with-ginger-turmeric-16-oz",
+        "price": "8.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428654859.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428654859_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428654859_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428654859_4.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Fruit Snacks"
+        ],
+        "name": "gold-emblem-abound-fuji-apple-crisps-1-oz",
+        "price": "4.59",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428338483.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428338483_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428338483_3.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Condiments & Spreads"
+        ],
+        "name": "gold-emblem-abound-organic-apple-cider-vinegar-32-o",
+        "price": "5.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428321485.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428321485_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428321485_3.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Fruit Snacks"
+        ],
+        "name": "gold-emblem-abound-freeze-dried-fuji-apple-fruit-crisps-2-oz",
+        "price": "7.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428644089.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428644089_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428644089_3.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Grocery",
+            "Cereal & Breakfast"
+        ],
+        "name": "quaker-oats-instant-oatmeal-apples-cinnamon",
+        "price": "6.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3000031678.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Diet & Nutrition",
+            "Balanced Nutrition"
+        ],
+        "name": "goli-apple-cider-vinegar-gummies",
+        "price": "15.99",
+        "sizes": [
+            "30 Count",
+            "60 Count"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/628176357850.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/628176357850_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/628176357850_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/628176357850_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/628176357850_5.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Vitamins",
+            "Supplements",
+            "Apple Cider Vinegar"
+        ],
+        "name": "cvs-health-apple-cider-vinegar-complex-capsules-84-ct",
+        "price": "11.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042856319.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042856319_2.jpg"
+        ]
+    },
+    {
+        "item": "Apples",
+        "categories": [
+            "Vitamins",
+            "Supplements",
+            "Apple Cider Vinegar"
+        ],
+        "name": "goli-apple-cider-vinegar-gummies-60-ct",
+        "price": "15.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/62817635730.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/62817635730_2.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-shredded-4-cheese-mexican-blend-8-oz",
+        "price": "5.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054961.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054961_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054961_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-shredded-mozzarella-cheese-8-oz",
+        "price": "5.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054954.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054954_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054954_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Snack & Trail Mix"
+        ],
+        "name": "cheez-it-snack-mix-double-cheese-3-5-oz",
+        "price": "2.59",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_6.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-velveeta-shells-and-cheese-12-oz",
+        "price": "5.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_7.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Condiments & Spreads"
+        ],
+        "name": "kraft-100-grated-parmesan-cheese-8-oz",
+        "price": "7.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531_5.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "annie-s-homegrown-macoroni-cheese-6-oz",
+        "price": "2.69",
+        "sizes": [
+            "Shells & White Cheddar",
+            "Shells & Real Aged Cheddar"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/1356200004.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "doritos-tortilla-chips-nacho-cheese-flavored-2-75-oz",
+        "price": "2.69",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032505.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032505_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032505_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032505_4.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-mozzarella-string-cheese-12-ct",
+        "price": "6.69",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000017140.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000017140_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000017140_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "cheetos-bold-and-cheesy-mac-n-cheese-5-9-oz",
+        "price": "2.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300014985.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300014985_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300014985_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300014985_4.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Jerky & Meat Snacks"
+        ],
+        "name": "jack-link-s-all-american-beef-cheese-twin-pack-1-2-oz",
+        "price": "1.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/1708200039.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "cheetos-flamin-hot-mac-n-cheese-5-6-oz",
+        "price": "2.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300200234.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300200234_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300200234_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300200234_4.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-easy-mac-cup-triple-cheese-2-05-oz",
+        "price": "2.09",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100001088.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-mozzarella-string-cheese-1-oz",
+        "price": "1.09",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000000227.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000000227_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000000227_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "dorito-s-nacho-cheese-3-12-oz",
+        "price": "2.69",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28400420730.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28400420730_2.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Jerky & Meat Snacks"
+        ],
+        "name": "old-wisconsin-beef-stick-jalapeno-cheese-smokestack-2-5-oz",
+        "price": "3.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170800008.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170800008_2.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Jerky & Meat Snacks"
+        ],
+        "name": "old-wisconsin-beef-stick-cheddar-cheese-smokestack-2-5-oz",
+        "price": "3.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170700001.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170700001_2.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Jerky & Meat Snacks"
+        ],
+        "name": "old-wisconsin-beef-stick-cheddar-cheese-smokestack",
+        "price": "1.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170223432.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Frozen Food"
+        ],
+        "name": "devour-buffalo-style-chicken-mac-cheese-with-buffalo-cheddar-cheese-sauce-blue-cheese-frozen-meal-12-oz",
+        "price": "5.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25155057044.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25155057044_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25155057044_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-deluxe-original-macaroni-cheese-14-oz",
+        "price": "5.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065886.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065886_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065886_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065886_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065886_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065886_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065886_7.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "gold-emblem-fast-favorites-elbow-mac-cheese-8-8-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822_5.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "yoo-hoo-chocolate-drink-10-ct-6-5-oz",
+        "price": "6.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016_5.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "horizon-organic-whole-milk-64-oz",
+        "price": "5.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264450.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264450_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264450_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "lactaid-2-reduced-fat-milk-64-oz",
+        "price": "5.59",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41383090103.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41383090103_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41383090103_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41383090103_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "horizon-organic-2-reduced-fat-milk-64-oz",
+        "price": "5.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264252.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264252_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264252_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "blue-diamond-almond-breeze-unsweetened-almond-milk-32-oz",
+        "price": "3.19",
+        "sizes": [
+            "Original",
+            "Vanilla"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570054130.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570054130_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570054130_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570054130_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "almond-breeze-unsweetened-vanilla-almond-milk-64-oz",
+        "price": "4.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056189.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056189_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056189_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056189_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "almond-breeze-unsweetened-original-almond-milk-64-oz",
+        "price": "4.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056707.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056707_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056707_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056707_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "blue-diamond-almond-breeze-almond-milk-32-oz",
+        "price": "3.19",
+        "sizes": [
+            "Original"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570068274.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570068274_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570068274_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570068274_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "planet-oat-oatmilk-52-oz",
+        "price": "4.99",
+        "sizes": [
+            "Vanilla",
+            "Original"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/44100156212.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/44100156212_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/44100156212_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/44100156212_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "silk-original-soymilk-32-oz",
+        "price": "3.89",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25293600904.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25293600904_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25293600904_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "nestle-coffee-mate-original-powdered-coffee-creamer",
+        "price": "9.29",
+        "sizes": [
+            "French Vanilla",
+            "Original"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_8.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_9.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "nesquik-chocolate-powder-drink-mix-20-1-oz",
+        "price": "8.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_8.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_9.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "international-delight-caramel-macchiato-coffee-creamer-32-oz",
+        "price": "4.59",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271009552.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271009552_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271009552_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "yoo-hoo-strawberry-drink-6-5-oz-boxes-10-ct",
+        "price": "6.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184_5.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "so-delicious-dairy-free-coconutmilk-beverage-unsweetened-vanilla-32-oz",
+        "price": "2.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/744473912322.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "gold-emblem-artificially-flavored-french-vanilla-coffee-creamer-15-oz",
+        "price": "5.19",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191_5.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "dunkin-coffee-creamer-32-oz",
+        "price": "5.09",
+        "sizes": [
+            "Extra Extra",
+            "Extra Extra Vanilla"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271017885.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271017885_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271017885_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "nestle-media-crema-lite-cream-7-6-oz",
+        "price": "2.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_8.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_9.jpg"
+        ]
+    }
+]
