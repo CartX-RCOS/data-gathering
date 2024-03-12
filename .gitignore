@@ -130,3 +130,8 @@ dist
 .pnp.*
 
 config.js
+
+venv/
+*.pyc
+__pycache__/
+instance/
