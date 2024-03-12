@@ -7678,5 +7678,3845 @@
                 "product_image_alt_text": "Nesquik Low Fat Strawberry Flavored Milk"
             }
         ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Hannaford Large White Eggs",
+        "brand": "Hannaford",
+        "price": "3.49",
+        "size": "12 Ct.",
+        "average_weight": "$29.08/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-large-white-eggs/932355?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XKPEwM+0tkMwrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Large White Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Side Dishes",
+        "name": "Ore-Ida Just Crack An Egg All American Scramble",
+        "brand": "Just Crack an Egg",
+        "price": "2.59",
+        "size": "3 Oz.",
+        "average_weight": "$13.81/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/ore-ida-just-crack-an-egg-all-american-scramble/964902?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=v/606W0CXftP+U5YKI7qhbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Ore-Ida Just Crack An Egg All American Scramble"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Side Dishes",
+        "name": "Ore-Ida Just Crack An Egg Protein Packed Scramble",
+        "brand": "Just Crack an Egg",
+        "price": "2.59",
+        "size": "2.25 Oz.",
+        "average_weight": "$18.42/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/ore-ida-just-crack-an-egg-protein-packed-scramble/1008567?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=v/606W0CXfvG/8HSSlLvhLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Ore-Ida Just Crack An Egg Protein Packed Scramble"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Hannaford Large Brown Eggs",
+        "brand": "Hannaford",
+        "price": "5.52",
+        "size": "18 Ct.",
+        "average_weight": "$30.67/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-large-brown-eggs/932365?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XL9W7FQUL3igLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Hannaford Large Brown Eggs",
+        "brand": "Hannaford",
+        "price": "3.69",
+        "size": "12 Ct.",
+        "average_weight": "$30.75/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-large-brown-eggs/932312?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XJBHAincLHqorOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Hannaford Large Brown Eggs",
+        "brand": "Hannaford",
+        "price": "2.35",
+        "size": "6 Ct.",
+        "average_weight": "$39.17/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-large-brown-eggs/932313?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XKIj4hLtrnTULOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Side Dishes",
+        "name": "Oscar Mayer Scramblers Ham & Colby Jack Cheese",
+        "brand": "Oscar Mayer",
+        "price": "2.59",
+        "size": "3 Oz.",
+        "average_weight": "$13.81/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/oscar-mayer-scramblers-ham-colby-jack-cheese/1042133?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=uiL1krKOvCHxiTfp5mIzoLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Oscar Mayer Scramblers Ham & Colby Jack Cheese"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Pete & Gerry's Organic Cage Free Grade A Extra Large Eggs",
+        "brand": "Pete and Gerry's",
+        "price": "3.69",
+        "size": "6 Ct.",
+        "average_weight": "$61.50/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pete-gerry-s-organic-cage-free-grade-a-extra-large-eggs/866130?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5d3Ythrmzu7QbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Pete & Gerry's Organic Cage Free Grade A Extra Large Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Pete & Gerry's Organic Jumbo Brown Grade A Eggs",
+        "brand": "Pete and Gerry's",
+        "price": "3.89",
+        "size": "6 Ct.",
+        "average_weight": "$64.83/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pete-gerry-s-organic-jumbo-brown-grade-a-eggs/970276?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5eNDZ7hfC80ELEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Pete & Gerry's Organic Jumbo Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Country Hen Large Brown Grade A Eggs",
+        "brand": "The Country Hen",
+        "price": "3.99",
+        "size": "6 Ct.",
+        "average_weight": "$66.50/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/country-hen-large-brown-grade-a-eggs/722767?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=it8Z2jS7bt/FmxPc3lVqNLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Country Hen Large Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Egg Substitutes",
+        "name": "Nellie's Free Range Hard-Boiled Eggs",
+        "brand": "Nellie's",
+        "price": "3.99",
+        "size": "9.3 Oz. - 6 Ct.",
+        "average_weight": "$6.87/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nellie-s-free-range-hard-boiled-eggs/1008440?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5dwPlMiqbt/MbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nellie's Free Range Hard-Boiled Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Egg Substitutes",
+        "name": "Vital Farms Pasture Raised Hard-Boiled Eggs",
+        "brand": "Vital Farms",
+        "price": "4.49",
+        "size": "9.3 Oz. - 6 Ct.",
+        "average_weight": "$7.73/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/vital-farms-pasture-raised-hard-boiled-eggs/1030876?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=P2E86YGeFM67qKP/y2DHULEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Vital Farms Pasture Raised Hard-Boiled Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nature's Promise Free Range Large Brown Eggs",
+        "brand": "Nature's Promise",
+        "price": "3.99",
+        "size": "12 Ct.",
+        "average_weight": "$33.25/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-free-range-large-brown-eggs/988051?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYjmn5zqAvSbk7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Free Range Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nature's Promise Cage Free Large Brown Grade A Eggs",
+        "brand": "Nature's Promise",
+        "price": "4.09",
+        "size": "12 Ct.",
+        "average_weight": "$34.08/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-cage-free-large-brown-grade-a-eggs/988049?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYi4pNmPR+DmHbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Cage Free Large Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Hannaford Extra Large Brown Eggs",
+        "brand": "Hannaford",
+        "price": "4.09",
+        "size": "12 Ct.",
+        "average_weight": "$34.08/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-extra-large-brown-eggs/932315?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XLa8VX9tbKODLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Extra Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nature's Promise Cage Free Large Brown Grade A Eggs",
+        "brand": "Nature's Promise",
+        "price": "6.19",
+        "size": "18 Ct.",
+        "average_weight": "$34.39/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-cage-free-large-brown-grade-a-eggs/1011908?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYjggWiWnxwaubEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Cage Free Large Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nellie's Free Range Large Brown Grade A Eggs",
+        "brand": "Nellie's",
+        "price": "5.49",
+        "size": "12 Ct.",
+        "average_weight": "$45.75/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nellie-s-free-range-large-brown-grade-a-eggs/822310?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5cHuyE8QioC5bEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nellie's Free Range Large Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nellie's Large Free Range Brown Grade A Eggs",
+        "brand": "Nellie's",
+        "price": "7.79",
+        "size": "18 Ct.",
+        "average_weight": "$43.28/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nellie-s-large-free-range-brown-grade-a-eggs/961086?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5cGa6APNwq7EbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nellie's Large Free Range Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nature's Promise Organic Free Range Large Brown Eggs Grade A",
+        "brand": "Nature's Promise",
+        "price": "4.99",
+        "size": "12 Ct.",
+        "average_weight": "$41.58/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-organic-free-range-large-brown-eggs-grade-a/1010129?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYjI86mOOeVez7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Organic Free Range Large Brown Eggs Grade A"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Pete & Gerry's Organic Large Brown Omega 3 Grade A Eggs",
+        "brand": "Pete and Gerry's",
+        "price": "6.29",
+        "size": "12 Ct.",
+        "average_weight": "$52.42/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pete-gerry-s-organic-large-brown-omega-3-grade-a-eggs/822309?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5e+yutvgr4fKrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Pete & Gerry's Organic Large Brown Omega 3 Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Vital Farms Pasture Raised Large Brown Eggs",
+        "brand": "Vital Farms",
+        "price": "6.79",
+        "size": "12 Ct.",
+        "average_weight": "$56.58/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/vital-farms-pasture-raised-large-brown-eggs/1008660?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=d8bUii7rt9Jpp21dG11Js7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Vital Farms Pasture Raised Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Eggland's Best Large Brown Cage-Free Omega Grade A Eggs",
+        "brand": "Eggland's Best",
+        "price": "4.49",
+        "size": "12 Ct.",
+        "average_weight": "$37.42/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/eggland-s-best-large-brown-cage-free-omega-grade-a-eggs/808182?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=+uL2+lVUn1fGx2ENpc7gvLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Eggland's Best Large Brown Cage-Free Omega Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nature's Promise Cage Free Extra Large Brown Grade A Eggs",
+        "brand": "Nature's Promise",
+        "price": "4.69",
+        "size": "12 Ct.",
+        "average_weight": "$39.08/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-cage-free-extra-large-brown-grade-a-eggs/1011896?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYiE9ykV17UVGrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Cage Free Extra Large Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nellie's Free Range Extra Large Grade A Brown Eggs",
+        "brand": "Nellie's",
+        "price": "5.99",
+        "size": "12 Ct.",
+        "average_weight": "$49.92/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nellie-s-free-range-extra-large-grade-a-brown-eggs/923895?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5d0QD2Qv0URJrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nellie's Free Range Extra Large Grade A Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nature's Promise Pasture Raised Large Brown Eggs",
+        "brand": "Nature's Promise",
+        "price": "5.69",
+        "size": "12 Ct.",
+        "average_weight": "$47.42/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-pasture-raised-large-brown-eggs/988050?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYiWfYsnu0lvk7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Pasture Raised Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Pete & Gerry's Organic Free Range Extra Large Grade A Eggs",
+        "brand": "Pete and Gerry's",
+        "price": "7.19",
+        "size": "12 Ct.",
+        "average_weight": "$59.92/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pete-gerry-s-organic-free-range-extra-large-grade-a-eggs/936204?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5c3ibwtWhN7vrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Pete & Gerry's Organic Free Range Extra Large Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Hannaford Medium Brown Eggs",
+        "brand": "Hannaford",
+        "price": "3.59",
+        "size": "12 Ct.",
+        "average_weight": "$29.92/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-medium-brown-eggs/932314?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XI0zQJYK+LImrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Medium Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Vital Farms Pasture Raised Large Brown Eggs",
+        "brand": "Vital Farms",
+        "price": "9.99",
+        "size": "18 Ct.",
+        "average_weight": "$55.50/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/vital-farms-pasture-raised-large-brown-eggs/1028952?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=4OWMhShG+56rv+Tt26HeL7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Vital Farms Pasture Raised Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nature's Promise Organic Cage Free Extra Large Brown Eggs",
+        "brand": "Nature's Promise",
+        "price": "5.49",
+        "size": "12 Ct.",
+        "average_weight": "$45.75/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-organic-cage-free-extra-large-brown-eggs/990459?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYjFLyeV1t30r7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Organic Cage Free Extra Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Pete & Gerry's Pasture Raised Large Brown Grade A Eggs",
+        "brand": "Pete and Gerry's",
+        "price": "5.99",
+        "size": "12 Ct.",
+        "average_weight": "$49.92/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pete-gerry-s-pasture-raised-large-brown-grade-a-eggs/1037975?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5ei9Zs67fb6Q7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Pete & Gerry's Pasture Raised Large Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Eggland's Best Extra Large Brown Grade A Eggs",
+        "brand": "Eggland's Best",
+        "price": "4.89",
+        "size": "12 Ct.",
+        "average_weight": "$40.75/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/eggland-s-best-extra-large-brown-grade-a-eggs/927133?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=+uL2+lVUn1dKOhXcy/TVGrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Eggland's Best Extra Large Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Pete & Gerry's Organic Free Range Large Eggs",
+        "brand": "Pete and Gerry's",
+        "price": "8.69",
+        "size": "18 Ct.",
+        "average_weight": "$48.28/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pete-gerry-s-organic-free-range-large-eggs/984900?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5fxyqeEKpxp0LEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Pete & Gerry's Organic Free Range Large Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Vital Farms Pasture Raised Extra Large Brown Eggs",
+        "brand": "Vital Farms",
+        "price": "7.29",
+        "size": "12 Ct.",
+        "average_weight": "$60.75/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/vital-farms-pasture-raised-extra-large-brown-eggs/1043884?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=P2E86YGeFM7Vfuu5YZFehrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Vital Farms Pasture Raised Extra Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Eggland's Best Cage Free Large Brown Grade A Eggs",
+        "brand": "Eggland's Best",
+        "price": "6.39",
+        "size": "18 Ct.",
+        "average_weight": "$35.50/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/eggland-s-best-cage-free-large-brown-grade-a-eggs/1021183?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=+uL2+lVUn1cST7YWMFq2gbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Eggland's Best Cage Free Large Brown Grade A Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Pete & Gerry's Pasture Raised Grade A Large Eggs",
+        "brand": "Pete and Gerry's",
+        "price": "9.99",
+        "size": "18 Ct.",
+        "average_weight": "$55.50/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pete-gerry-s-pasture-raised-grade-a-large-eggs/1043882?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5fY4Nt0aIql6LEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Pete & Gerry's Pasture Raised Grade A Large Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Eggland's Best Organic Large Brown Eggs",
+        "brand": "Eggland's Best",
+        "price": "5.99",
+        "size": "12 Ct.",
+        "average_weight": "$49.92/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/eggland-s-best-organic-large-brown-eggs/862637?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=+uL2+lVUn1eqwtvmwz6wVbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Eggland's Best Organic Large Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Hannaford Egg Whites",
+        "brand": "Hannaford",
+        "price": "5.09",
+        "size": "32 Oz.",
+        "average_weight": "$2.55/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-egg-whites/726997?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XKGKMRKykwZdLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Egg Whites"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Egg Beaters Original Eggs Made with Cage Free Eggs",
+        "brand": "Egg Beaters",
+        "price": "7.49",
+        "size": "32 Oz.",
+        "average_weight": "$3.75/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/egg-beaters-original-eggs-made-with-cage-free-eggs/1027757?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=rgOREzkvZzX+E6JPrJrC1rEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Egg Beaters Original Eggs Made with Cage Free Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Nature's Promise Cage Free Liquid Egg Whites",
+        "brand": "Nature's Promise",
+        "price": "3.29",
+        "size": "16 Oz.",
+        "average_weight": "$3.29/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-cage-free-liquid-egg-whites/1022564?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYj/tROcymc/9rEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Cage Free Liquid Egg Whites"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Hannaford Egg Substitute",
+        "brand": "Hannaford",
+        "price": "4.79",
+        "size": "32 Oz.",
+        "average_weight": "$2.40/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-egg-substitute/726751?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XJv0QA+eQv94bOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Egg Substitute"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Pete and Gerry's Cage Free Organic Liquid Egg Whites",
+        "brand": "Pete and Gerry's",
+        "price": "5.79",
+        "size": "16 Oz.",
+        "average_weight": "$5.79/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pete-and-gerry-s-cage-free-organic-liquid-egg-whites/936475?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5ctuzZfHUkAh7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Pete and Gerry's Cage Free Organic Liquid Egg Whites"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Bob Evans Liquid Egg Whites Cage Free",
+        "brand": "Bob Evans",
+        "price": "6.99",
+        "size": "32 Oz.",
+        "average_weight": "$3.50/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bob-evans-liquid-egg-whites-cage-free/1026783?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=tnaWeEVjJMnPBp7p3fs2q7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Bob Evans Liquid Egg Whites Cage Free"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggs",
+        "name": "Hannaford Jumbo Brown Eggs",
+        "brand": "Hannaford",
+        "price": "4.29",
+        "size": "12 Ct.",
+        "average_weight": "$35.75/Per 100 ct",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-jumbo-brown-eggs/932356?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XLwlyorP5Ap1bOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Jumbo Brown Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Hannaford Yolkful Extra Wide Egg Noodles",
+        "brand": "Hannaford",
+        "price": "2.19",
+        "size": "12 Oz.",
+        "average_weight": "$2.92/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-yolkful-extra-wide-egg-noodles/1030975?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XKDXmYQKFktB7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Yolkful Extra Wide Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Hannaford Yolkful Wide Egg Noodles",
+        "brand": "Hannaford",
+        "price": "2.19",
+        "size": "12 Oz.",
+        "average_weight": "$2.92/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-yolkful-wide-egg-noodles/1031036?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XK06VgWVitGLbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Yolkful Wide Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Appetizers & Snacks",
+        "name": "Sauder's Hard Boiled Cage Free Eggs",
+        "brand": "Sauder's Eggs",
+        "price": "4.49",
+        "size": "9.3 Oz. - 6-Pack",
+        "average_weight": "$7.73/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/sauder-s-hard-boiled-cage-free-eggs/1026517?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=l4irhUlVBvfysXHf2Xs6lbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Sauder's Hard Boiled Cage Free Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Appetizers & Snacks",
+        "name": "Sauder's Hard Boiled Peeled Cage Free Eggs",
+        "brand": "Sauder's Eggs",
+        "price": "2.29",
+        "size": "2.76 Oz. - 2-Pack",
+        "average_weight": "$13.28/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/sauder-s-hard-boiled-peeled-cage-free-eggs/1026516?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=l4irhUlVBvcTsotABTI+6LOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Sauder's Hard Boiled Peeled Cage Free Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Wonton Wraps & Noodles",
+        "name": "Nasoya Vegan Egg Roll Wraps",
+        "brand": "Nasoya",
+        "price": "2.69",
+        "size": "16 Oz. - Plant-Based",
+        "average_weight": "$2.69/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nasoya-vegan-egg-roll-wraps/1000481?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=0BZG7g51DUTeetMXwpNSYbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Nasoya Vegan Egg Roll Wraps"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Pennsylvania Dutch Homestyle Egg Noodles",
+        "brand": "Pennsylvania Dutch Noodles",
+        "price": "2.75",
+        "size": "12 Oz.",
+        "average_weight": "$3.67/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pennsylvania-dutch-homestyle-egg-noodles/901711?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=pDs/OPBxUqh4UUVw5wMDprOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Pennsylvania Dutch Homestyle Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Asian",
+        "name": "Wel-Pac Lo Mein Egg Noodles",
+        "brand": "Wel-Pac",
+        "price": "1.59",
+        "size": "10 Oz.",
+        "average_weight": "$2.54/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/wel-pac-lo-mein-egg-noodles/892882?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=5BeZhP+XwKDXOElbDxKZF7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Wel-Pac Lo Mein Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Hannaford Yolkful Fine Egg Noodles",
+        "brand": "Hannaford",
+        "price": "2.19",
+        "size": "12 Oz.",
+        "average_weight": "$2.92/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-yolkful-fine-egg-noodles/1030976?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XJHEzao1e5ERLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Yolkful Fine Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Pennsylvania Dutch Extra Wide Egg Noodles",
+        "brand": "Pennsylvania Dutch Noodles",
+        "price": "2.75",
+        "size": "12 Oz.",
+        "average_weight": "$3.67/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pennsylvania-dutch-extra-wide-egg-noodles/850222?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=pDs/OPBxUqg4QriSGcXYvbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Pennsylvania Dutch Extra Wide Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Pennsylvania Dutch Wide Egg Noodles",
+        "brand": "Pennsylvania Dutch Noodles",
+        "price": "2.75",
+        "size": "12 Oz.",
+        "average_weight": "$3.67/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pennsylvania-dutch-wide-egg-noodles/901710?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=pDs/OPBxUqiHD+SYV8Umh7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Pennsylvania Dutch Wide Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Cadbury Creme Eggs",
+        "brand": "Cadbury",
+        "price": "1.29",
+        "size": "1.2 Oz.",
+        "average_weight": "$17.20/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/cadbury-creme-eggs/715179?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKlLhVzS0fj9d7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Cadbury Creme Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Mayonnaise",
+        "name": "Hannaford Real Cage Free Eggs Mayonnaise",
+        "brand": "Hannaford",
+        "price": "4.75",
+        "size": "30 Oz.",
+        "average_weight": "$5.07/Per quart",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-real-cage-free-eggs-mayonnaise/1002940?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XJWiMfvhrjFxbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Real Cage Free Eggs Mayonnaise"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Light 'N Fluffy Homestyle Egg Noodles",
+        "brand": "Light 'n Fluffy",
+        "price": "3.19",
+        "size": "12 Oz.",
+        "average_weight": "$4.25/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/light-n-fluffy-homestyle-egg-noodles/1007284?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=p8tE861o8v4nB+d5lPjuGrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Light 'N Fluffy Homestyle Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Deli Salads",
+        "name": "Hannaford Original Egg Salad",
+        "brand": "Hannaford",
+        "price": "6.99",
+        "size": "12 Oz.",
+        "average_weight": "$9.32/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-original-egg-salad/1049409?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XL3wMYOcvIdTrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Original Egg Salad"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Kosher",
+        "name": "Manischewitz Broad Egg Noodles",
+        "brand": "Manischewitz",
+        "price": "3.09",
+        "size": "12 Oz.",
+        "average_weight": "$4.12/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/manischewitz-broad-egg-noodles/757315?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=rGOuSOzp5Jg5On9acIfQ97OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Manischewitz Broad Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Asian",
+        "name": "Blue Dragon Medium Egg Noodles",
+        "brand": "Blue Dragon",
+        "price": "4.09",
+        "size": "10.5 Oz.",
+        "average_weight": "$6.23/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/blue-dragon-medium-egg-noodles/808018?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=/Nc77OLceeDEomlhXKcTf7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Blue Dragon Medium Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Kosher",
+        "name": "Manischewitz Extra Wide Egg Noodles",
+        "brand": "Manischewitz",
+        "price": "4.29",
+        "size": "12 Oz.",
+        "average_weight": "$5.72/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/manischewitz-extra-wide-egg-noodles/757316?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=rGOuSOzp5JjD8uLBB+zC+rOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Manischewitz Extra Wide Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "No Yolks Broad Egg Noodles",
+        "brand": "No Yolks",
+        "price": "3.15",
+        "size": "12 Oz.",
+        "average_weight": "$4.20/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/no-yolks-broad-egg-noodles/754159?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=CpCWwF6njWV5HWEgt13Qt7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "No Yolks Broad Egg Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Frozen Sandwiches",
+        "name": "InnovAsian Pork Egg Rolls",
+        "brand": "InnovAsian",
+        "price": "4.65",
+        "size": "10.8 Oz.",
+        "average_weight": "$6.89/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/innovasian-pork-egg-rolls/1037909?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=dBbOzjni82xMqVMixr0WorEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "InnovAsian Pork Egg Rolls"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Frozen Sandwiches",
+        "name": "InnovAsian Chicken Egg Rolls",
+        "brand": "InnovAsian",
+        "price": "4.65",
+        "size": "10.8 Oz.",
+        "average_weight": "$6.89/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/innovasian-chicken-egg-rolls/1037908?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=dBbOzjni82zJ0F4oVPqngrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "InnovAsian Chicken Egg Rolls"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Frozen Sandwiches",
+        "name": "Feel Good Foods Gluten Free Vegetable Egg Rolls",
+        "brand": "Feel Good Foods",
+        "price": "9.49",
+        "size": "9 Oz.",
+        "average_weight": "$16.87/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/feel-good-foods-gluten-free-vegetable-egg-rolls/937207?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=n0xpVY1sbFLqWufA8/QlobEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Feel Good Foods Gluten Free Vegetable Egg Rolls"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Frozen Sandwiches",
+        "name": "Pogoda Pork Egg Rolls",
+        "brand": "Pagoda",
+        "price": "7.81",
+        "size": "22 Oz. - 8 Pack",
+        "average_weight": "$5.68/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pogoda-pork-egg-rolls/1011299?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=KKX/pUcX/sg3/Rr2Sd7PerOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Pogoda Pork Egg Rolls"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Frozen Sandwiches",
+        "name": "Pogoda Chicken Egg Rolls",
+        "brand": "Pagoda",
+        "price": "7.81",
+        "size": "22 Oz. - 8 Pack",
+        "average_weight": "$5.68/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pogoda-chicken-egg-rolls/1011298?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=KKX/pUcX/sg8ANkLguCnYbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Pogoda Chicken Egg Rolls"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Eggnog",
+        "name": "Hood Golden Egg Nog",
+        "brand": "Hood",
+        "price": "6.29",
+        "size": "Half Gallon",
+        "average_weight": "$3.15/Per quart",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hood-golden-egg-nog/736338?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=j0a+oiB4wOoGaaiam+5lxLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hood Golden Egg Nog"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Cadbury Mini Eggs Milk Chocolate",
+        "brand": "Cadbury",
+        "price": "4.69",
+        "size": "9 Oz.",
+        "average_weight": "$8.34/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/cadbury-mini-eggs-milk-chocolate/1026326?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKlr0Nn0GaMqCbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Cadbury Mini Eggs Milk Chocolate"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Reese's Peanut Butter Eggs",
+        "brand": "Reese's",
+        "price": "1.29",
+        "size": "1.2 Oz.",
+        "average_weight": "$17.20/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/reese-s-peanut-butter-eggs/715151?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKl/SqVx461rXLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Reese's Peanut Butter Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Cadbury Creme Eggs",
+        "brand": "Cadbury",
+        "price": "4.69",
+        "size": "4.8 Oz.",
+        "average_weight": "$15.63/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/cadbury-creme-eggs/715248?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKnMkXWIZGCbcrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Cadbury Creme Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Brach's Classic Jelly Bird Eggs",
+        "brand": "Brach's",
+        "price": "1.99",
+        "size": "9 Oz.",
+        "average_weight": "$3.54/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/brach-s-classic-jelly-bird-eggs/693796?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=C1iFzspuPTVxvTOgHLmAx7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Brach's Classic Jelly Bird Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Hannaford Extra Wide Ribbon Pasta",
+        "brand": "Hannaford",
+        "price": "2.19",
+        "size": "12 Oz.",
+        "average_weight": "$2.92/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-extra-wide-ribbon-pasta/1030977?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XKcb/GH+rM2dbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Extra Wide Ribbon Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Deli Salads",
+        "name": "Hannaford Potato & Egg Salad",
+        "brand": "Hannaford",
+        "price": "3.99",
+        "size": "16 Oz.",
+        "average_weight": "$3.99/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-potato-egg-salad/726175?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XLISs3a3IP3RrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Potato & Egg Salad"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Candy",
+        "name": "Cadbury Caramel Eggs",
+        "brand": "Cadbury",
+        "price": "1.29",
+        "size": "1.2 Oz.",
+        "average_weight": "$17.20/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/cadbury-caramel-eggs/715180?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKkmuUVIOZDgAbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Cadbury Caramel Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Candy",
+        "name": "Kinder Joy Variety Egg",
+        "brand": "Kinder Joy",
+        "price": "4.0",
+        "size": ".7 Oz.",
+        "average_weight": "$45.77/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/kinder-joy-variety-egg/1020169?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=hii9uQPop0trRYrRkS1a15w+xfsWjzJ45u8vxDcHvDd7u91pPgt/iA==",
+                "product_image_alt_text": "Kinder Joy Variety Egg"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Cadbury Mini Eggs",
+        "brand": "Cadbury",
+        "price": "7.79",
+        "size": "16 Oz.",
+        "average_weight": "$7.79/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/cadbury-mini-eggs/1026327?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKkswjs3VlK7nrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Cadbury Mini Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Mayonnaise",
+        "name": "Hannaford Real Cage Free Egg Mayonnaise",
+        "brand": "Hannaford",
+        "price": "3.39",
+        "size": "11.5 Oz.",
+        "average_weight": "$9.44/Per quart",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-real-cage-free-egg-mayonnaise/1002939?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XKcNrn5NhDlarOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Real Cage Free Egg Mayonnaise"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Reeses's Peanut Butter Milk Chocolate Eggs",
+        "brand": "Reese's",
+        "price": "4.99",
+        "size": "9.6 Oz.",
+        "average_weight": "$8.32/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/reeses-s-peanut-butter-milk-chocolate-eggs/1026359?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKl4glx5vEFwMLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Reeses's Peanut Butter Milk Chocolate Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Light 'N Fluffy Noodles",
+        "brand": "Light 'n Fluffy",
+        "price": "3.19",
+        "size": "12 Oz.",
+        "average_weight": "$4.25/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/light-n-fluffy-noodles/714519?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=p8tE861o8v6NkHhjuZzgUbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Light 'N Fluffy Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Candy",
+        "name": "Kinder Joy Candy Egg",
+        "brand": "Kinder Joy",
+        "price": "4.0",
+        "size": ".7 Oz.",
+        "average_weight": "$45.77/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/kinder-joy-candy-egg/963214?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=hii9uQPop0tJENyr3tQyZpw+xfsWjzJ45u8vxDcHvDd7u91pPgt/iA==",
+                "product_image_alt_text": "Kinder Joy Candy Egg"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Cadbury Mini Eggs Milk Chocolate",
+        "brand": "Cadbury",
+        "price": "11.12",
+        "size": "28 Oz.",
+        "average_weight": "$6.35/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/cadbury-mini-eggs-milk-chocolate/1026325?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKkOWliz4FQjCrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Cadbury Mini Eggs Milk Chocolate"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Organic & Natural",
+        "name": "Red's Turkey Sausage Egg & Three Cheese Burrito",
+        "brand": "Red's",
+        "price": "2.89",
+        "size": "5 Oz.",
+        "average_weight": "$9.25/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/red-s-turkey-sausage-egg-three-cheese-burrito/973055?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXVwFTvn6NgD8LEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Red's Turkey Sausage Egg & Three Cheese Burrito"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Candy",
+        "name": "Brach's Black Jelly Bird Eggs",
+        "brand": "Brach's",
+        "price": "1.99",
+        "size": "9 Oz.",
+        "average_weight": "$3.54/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/brach-s-black-jelly-bird-eggs/693793?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=C1iFzspuPTVG++wGtuM/r7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Brach's Black Jelly Bird Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Deli Salads",
+        "name": "Hannaford Potato & Egg Salad",
+        "brand": "Hannaford",
+        "price": "6.99",
+        "size": "32 Oz.",
+        "average_weight": "$3.50/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-potato-egg-salad/1017082?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XJa9rMs6Tj1nbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Potato & Egg Salad"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Entrees & Breakfast Sandwiches",
+        "name": "Jimmy Dean Sausage, Egg, & Cheese Croissants",
+        "brand": "Jimmy Dean",
+        "price": "12.49",
+        "size": "36 Oz. - 8-Pack",
+        "average_weight": "$5.55/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jimmy-dean-sausage-egg-cheese-croissants/768664?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=a+nT/G0GkXI/n2wevL2TIbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Jimmy Dean Sausage, Egg, & Cheese Croissants"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Frozen Sandwiches",
+        "name": "Sandwich Bros. Egg & Cheese Melts Pita Snack Sandwiches",
+        "brand": "Sandwich Bros.",
+        "price": "6.49",
+        "size": "15 Oz. - 6-Pack",
+        "average_weight": "$6.92/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/sandwich-bros-egg-cheese-melts-pita-snack-sandwiches/1021095?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=IsLlKUg+R+9C5M38/FUXobOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Sandwich Bros. Egg & Cheese Melts Pita Snack Sandwiches"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Entrees & Breakfast Sandwiches",
+        "name": "Jimmy Dean Sausage, Egg & Cheese Croissants",
+        "brand": "Jimmy Dean",
+        "price": "7.29",
+        "size": "18 Oz.",
+        "average_weight": "$6.48/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jimmy-dean-sausage-egg-cheese-croissants/768657?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=a+nT/G0GkXJDxsSoBzmL1rOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Jimmy Dean Sausage, Egg & Cheese Croissants"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Sausage",
+        "name": "Jimmy Dean Bacon Cheddar Simple Scrambles",
+        "brand": "Jimmy Dean",
+        "price": "3.49",
+        "size": "5.35 Oz.",
+        "average_weight": "$8.97/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jimmy-dean-bacon-cheddar-simple-scrambles/957021?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=a+nT/G0GkXL2rP6sNbm9QrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Jimmy Dean Bacon Cheddar Simple Scrambles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Brach's Spiced Jelly Bird Eggs",
+        "brand": "Brach's",
+        "price": "1.99",
+        "size": "9 Oz.",
+        "average_weight": "$3.54/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/brach-s-spiced-jelly-bird-eggs/693795?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=C1iFzspuPTUkFXQYtCi+BrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Brach's Spiced Jelly Bird Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Light 'N Fluffy Wide Noodles",
+        "brand": "Light 'n Fluffy",
+        "price": "3.19",
+        "size": "12 Oz.",
+        "average_weight": "$4.25/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/light-n-fluffy-wide-noodles/921989?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=p8tE861o8v6y0QRsdVKxarOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Light 'N Fluffy Wide Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Sausage",
+        "name": "Jimmy Dean Meat Lovers Simple Scrambles",
+        "brand": "Jimmy Dean",
+        "price": "3.49",
+        "size": "5.35 Oz.",
+        "average_weight": "$8.97/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jimmy-dean-meat-lovers-simple-scrambles/957019?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=a+nT/G0GkXJ+RaFhOi39PbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Jimmy Dean Meat Lovers Simple Scrambles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Candy",
+        "name": "Cadbury Milk Chocolate Rainbow Mini Eggs",
+        "brand": "Cadbury",
+        "price": "4.69",
+        "size": "8 Oz.",
+        "average_weight": "$9.38/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/cadbury-milk-chocolate-rainbow-mini-eggs/1038098?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKnlNjQKFl/IIrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Cadbury Milk Chocolate Rainbow Mini Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Mayonnaise",
+        "name": "Hannaford Real Cage Free Eggs Mayonnaise",
+        "brand": "Hannaford",
+        "price": "3.89",
+        "size": "15 Oz.",
+        "average_weight": "$8.30/Per quart",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-real-cage-free-eggs-mayonnaise/1002942?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XKvDZWgNgwe07OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Real Cage Free Eggs Mayonnaise"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Featured New Products - Weeks 25-28",
+        "name": "El Monterey Signature Egg Sausage And Cheese Burrito",
+        "brand": "El Monterey",
+        "price": "1.39",
+        "size": "4.5 Oz.",
+        "average_weight": "$4.94/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/el-monterey-signature-egg-sausage-and-cheese-burrito/1036905?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=8Bjlpbauj2RZU9UWJgKhGbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "El Monterey Signature Egg Sausage And Cheese Burrito"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Organic & Natural",
+        "name": "Red's Chicken Chorizo Egg & Three Cheese Burrito",
+        "brand": "Red's",
+        "price": "2.89",
+        "size": "5 Oz.",
+        "average_weight": "$9.25/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/red-s-chicken-chorizo-egg-three-cheese-burrito/973057?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXWSO+sOb5ySS7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Red's Chicken Chorizo Egg & Three Cheese Burrito"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Sausage",
+        "name": "Jimmy Dean Sausage Cheddar Simple Scrambles",
+        "brand": "Jimmy Dean",
+        "price": "3.49",
+        "size": "5.35 Oz.",
+        "average_weight": "$8.97/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jimmy-dean-sausage-cheddar-simple-scrambles/957020?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=a+nT/G0GkXJjCFqVXep9g7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Jimmy Dean Sausage Cheddar Simple Scrambles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Whoppers Robin Eggs",
+        "brand": "WHOPPERS",
+        "price": "2.99",
+        "size": "9 Oz.",
+        "average_weight": "$5.32/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/whoppers-robin-eggs/1026302?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ZngXiniqY/0CAS+kjEVhyLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Whoppers Robin Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Organic & Natural",
+        "name": "Just Egg Folded",
+        "brand": "JUST Egg",
+        "price": "4.99",
+        "size": "8 Oz.",
+        "average_weight": "$9.98/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/just-egg-folded/1011422?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=TZtiYrVsYDVVLd4JMgSXO7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Just Egg Folded"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Entrees & Breakfast Sandwiches",
+        "name": "Sandwhich Bros. Egg White & Turkey Sausage With Cheese",
+        "brand": "Sandwich Bros.",
+        "price": "6.49",
+        "size": "18 Oz.",
+        "average_weight": "$5.77/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/sandwhich-bros-egg-white-turkey-sausage-with-cheese/1021078?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=IsLlKUg+R+/Xgq5ESfDFKrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Sandwhich Bros. Egg White & Turkey Sausage With Cheese"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Rolls",
+        "name": "Hannaford Butter & Egg Dinner Rolls",
+        "brand": "Hannaford",
+        "price": "2.49",
+        "size": "7 Oz. - 6-Pack",
+        "average_weight": "",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-butter-egg-dinner-rolls/729159?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XInVUtedK3QMLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Butter & Egg Dinner Rolls"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "No Yolks Extra Broad Noodles",
+        "brand": "No Yolks",
+        "price": "3.15",
+        "size": "12 Oz.",
+        "average_weight": "$4.20/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/no-yolks-extra-broad-noodles/754158?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=CpCWwF6njWWg0J1bDHyKQLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "No Yolks Extra Broad Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "York Dark Chocolate Peppermint Eggs",
+        "brand": "York",
+        "price": "4.69",
+        "size": "9.6 Oz.",
+        "average_weight": "$7.82/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/york-dark-chocolate-peppermint-eggs/1026324?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKmzcIlZituv8rOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "York Dark Chocolate Peppermint Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Mayonnaise",
+        "name": "Hannaford Lite Cage Free Eggs Mayonnaise",
+        "brand": "Hannaford",
+        "price": "4.75",
+        "size": "30 Oz.",
+        "average_weight": "$5.07/Per quart",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-lite-cage-free-eggs-mayonnaise/1002941?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XJNpYD7iH4AO7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Lite Cage Free Eggs Mayonnaise"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Organic & Natural",
+        "name": "Red's Canadian Bacon Egg & Three Cheese Burrito",
+        "brand": "Red's",
+        "price": "2.89",
+        "size": "5 Oz.",
+        "average_weight": "$9.25/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/red-s-canadian-bacon-egg-three-cheese-burrito/973056?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXWh8Qhoafq2+7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Red's Canadian Bacon Egg & Three Cheese Burrito"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Entrees & Breakfast Sandwiches",
+        "name": "Jimmy Dean Bacon, Egg & Cheese Biscuits",
+        "brand": "Jimmy Dean",
+        "price": "7.29",
+        "size": "14.4 Oz.",
+        "average_weight": "$8.10/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jimmy-dean-bacon-egg-cheese-biscuits/768658?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=a+nT/G0GkXJqgrvY6DQDx7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Jimmy Dean Bacon, Egg & Cheese Biscuits"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Appetizers & Snacks",
+        "name": "Sauder's Cage Free Deviled Eggs",
+        "brand": "Hannaford",
+        "price": "4.99",
+        "size": "4.8 Oz. - 6 Ct.",
+        "average_weight": "$16.63/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/sauder-s-cage-free-deviled-eggs/1029080?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=l4irhUlVBve5+fSfPCCL07OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Sauder's Cage Free Deviled Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Hershey's Easter Reese's Peanut Butter Eggs",
+        "brand": "Reese's",
+        "price": "6.49",
+        "size": "7.2 Oz. - 6-Pack",
+        "average_weight": "$14.42/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hershey-s-easter-reese-s-peanut-butter-eggs/715673?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKl8OrB+JnV0+7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hershey's Easter Reese's Peanut Butter Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Cadbury Caramel Eggs",
+        "brand": "Cadbury",
+        "price": "4.69",
+        "size": "4.8 Oz.",
+        "average_weight": "$15.63/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/cadbury-caramel-eggs/715252?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKkA277S/daokLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Cadbury Caramel Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Entrees & Breakfast Sandwiches",
+        "name": "Hot Pockets Bacon Egg & Cheese",
+        "brand": "Hot Pockets",
+        "price": "3.69",
+        "size": "8.5 Oz.",
+        "average_weight": "$6.95/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hot-pockets-bacon-egg-cheese/735716?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=Xw+biHrenkL7m1Ux0g5NmrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hot Pockets Bacon Egg & Cheese"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Featured New Products - Weeks 25-28",
+        "name": "El Monterey Signature Egg Applewood Bacon & Cheese Burrito",
+        "brand": "El Monterey",
+        "price": "1.39",
+        "size": "4.5 Oz.",
+        "average_weight": "$4.94/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/el-monterey-signature-egg-applewood-bacon-cheese-burrito/1037761?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=8Bjlpbauj2RrDRjje55D4bOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "El Monterey Signature Egg Applewood Bacon & Cheese Burrito"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Hannaford Yolk Free Extra Broad Noodles",
+        "brand": "Hannaford",
+        "price": "2.19",
+        "size": "12 Oz.",
+        "average_weight": "$2.92/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-yolk-free-extra-broad-noodles/727138?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XK6oeKut2bSh7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Yolk Free Extra Broad Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Frozen Entrees & Breakfast Sandwiches",
+        "name": "Jimmy Dean Maple Griddle Cake Sausage Egg And Cheese",
+        "brand": "Jimmy Dean",
+        "price": "7.29",
+        "size": "18.8 Oz. - 4-Pack",
+        "average_weight": "$6.20/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jimmy-dean-maple-griddle-cake-sausage-egg-and-cheese/1037080?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=a+nT/G0GkXLuaxXfjyqGYbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Jimmy Dean Maple Griddle Cake Sausage Egg And Cheese"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Candy",
+        "name": "Brach's Classic Jelly Bird Eggs",
+        "brand": "Brach's",
+        "price": "3.19",
+        "size": "14.5 Oz.",
+        "average_weight": "$3.52/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/brach-s-classic-jelly-bird-eggs/1026412?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=j5V3OsZmP11xXD1dmpOA7LOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Brach's Classic Jelly Bird Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Organic & Natural",
+        "name": "Red's 78% Organic Egg & Cheddar Burrito",
+        "brand": "Red's",
+        "price": "2.89",
+        "size": "5 Oz.",
+        "average_weight": "$9.25/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/red-s-78-organic-egg-cheddar-burrito/973058?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXUxLAXRl4i4KrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Red's 78% Organic Egg & Cheddar Burrito"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Pasta",
+        "name": "Light 'N Fluffy Medium Noodles",
+        "brand": "Light 'n Fluffy",
+        "price": "3.19",
+        "size": "12 Oz.",
+        "average_weight": "$4.25/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/light-n-fluffy-medium-noodles/714520?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=p8tE861o8v5crn06G9bpxLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Light 'N Fluffy Medium Noodles"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Side Dishes",
+        "name": "Oscar Mayer Scramblers Bacon & Velveeta",
+        "brand": "Oscar Mayer",
+        "price": "2.59",
+        "size": "3 Oz.",
+        "average_weight": "$13.81/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/oscar-mayer-scramblers-bacon-velveeta/1045295?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=uiL1krKOvCFBOVda6mFup7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Oscar Mayer Scramblers Bacon & Velveeta"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Asian",
+        "name": "Blue Dragon Super Roll Wrappers",
+        "brand": "Blue Dragon",
+        "price": "3.0",
+        "size": "4.7 Oz.",
+        "average_weight": "$9.50/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/blue-dragon-super-roll-wrappers/808014?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=/Nc77OLceeAdxtKBU3iHyLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Blue Dragon Super Roll Wrappers"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Hershey's Easter Candy Coated Eggs",
+        "brand": "Hershey's",
+        "price": "4.69",
+        "size": "9 Oz.",
+        "average_weight": "$8.34/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hershey-s-easter-candy-coated-eggs/1026342?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKnxlzE3ywoUk7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hershey's Easter Candy Coated Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Dog Treats",
+        "name": "Blue Buffalo Health Bars Baked with Bacon, Egg & Cheese",
+        "brand": "Blue Buffalo",
+        "price": "4.99",
+        "size": "16 Oz.",
+        "average_weight": "$4.99/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/blue-buffalo-health-bars-baked-with-bacon-egg-cheese/985807?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=HXKjF+hjja3/5mrZ74Rz07EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Blue Buffalo Health Bars Baked with Bacon, Egg & Cheese"
+            }
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": "Easter Seasonal",
+        "name": "Reeses Milk Chocolate Peanut Butter Eggs",
+        "brand": "Reese's",
+        "price": "7.79",
+        "size": "16.1 Oz.",
+        "average_weight": "$7.74/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/reeses-milk-chocolate-peanut-butter-eggs/1026360?hdrKeyword=Eggs",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=GHuKDuXYaKlLD8eOMipRibOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Reeses Milk Chocolate Peanut Butter Eggs"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Hannaford Angel Hair Pasta",
+        "brand": "Hannaford",
+        "price": "1.29",
+        "size": "16 Oz.",
+        "average_weight": "$0.97/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-angel-hair-pasta/725478?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XL5ZvOpYZI5QrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Angel Hair Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Spaghetti",
+        "brand": "Barilla",
+        "price": "1.79",
+        "size": "16 Oz.",
+        "average_weight": "$1.79/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-spaghetti/766388?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3PxW0Fz3iRBccbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Spaghetti"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Elbow Pasta",
+        "brand": "Barilla",
+        "price": "1.79",
+        "size": "16 Oz.",
+        "average_weight": "$1.79/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-elbow-pasta/766404?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3PyqGC8Wt+XoUbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Elbow Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Hannaford Marinara Pasta Sauce",
+        "brand": "Hannaford",
+        "price": "1.99",
+        "size": "23 Oz.",
+        "average_weight": "$1.38/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-marinara-pasta-sauce/1012562?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XKiW1dLC9pj6LOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Hannaford Traditional Pasta Sauce",
+        "brand": "Hannaford",
+        "price": "1.99",
+        "size": "24 Oz.",
+        "average_weight": "$1.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-traditional-pasta-sauce/870595?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XKjtobG+99bibOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Traditional Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Protein Plus Rotini",
+        "brand": "Barilla",
+        "price": "2.99",
+        "size": "14.5 Oz.",
+        "average_weight": "$3.30/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-protein-plus-rotini/766419?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3PxrQMAkJ1VJibOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Protein Plus Rotini"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Penne Rigate",
+        "brand": "Barilla",
+        "price": "1.79",
+        "size": "16 Oz.",
+        "average_weight": "$1.79/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-penne-rigate/766392?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3Pw0N/jFOxsg+rOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Penne Rigate"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Protein Plus Penne",
+        "brand": "Barilla",
+        "price": "2.99",
+        "size": "14.5 Oz.",
+        "average_weight": "$3.30/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-protein-plus-penne/766421?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3Px8QmiU9dhURbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Protein Plus Penne"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Tri-Color Rotini",
+        "brand": "Barilla",
+        "price": "1.79",
+        "size": "12 Oz.",
+        "average_weight": "$2.39/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-tri-color-rotini/942378?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3Pz9CW1dar31jLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Tri-Color Rotini"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Protein Plus Elbows",
+        "brand": "Barilla",
+        "price": "2.99",
+        "size": "14.5 Oz.",
+        "average_weight": "$3.30/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-protein-plus-elbows/766420?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3PzIYAGJQA1s47OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Protein Plus Elbows"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Protein Plus Spaghetti",
+        "brand": "Barilla",
+        "price": "2.99",
+        "size": "14.5 Oz.",
+        "average_weight": "$3.30/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-protein-plus-spaghetti/766418?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3Pz/lGbyrzSrtbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Protein Plus Spaghetti"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Prince Tricolor Rotini",
+        "brand": "Prince",
+        "price": "1.55",
+        "size": "12 Oz.",
+        "average_weight": "$2.07/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/prince-tricolor-rotini/869392?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbsTn56LfxPHl7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Prince Tricolor Rotini"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Protein Plus Thin Spaghetti",
+        "brand": "Barilla",
+        "price": "2.99",
+        "size": "14.5 Oz.",
+        "average_weight": "$3.30/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-protein-plus-thin-spaghetti/766417?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3PzPUBdFwPYz2rOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Protein Plus Thin Spaghetti"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Protein Plus Angel Hair",
+        "brand": "Barilla",
+        "price": "2.99",
+        "size": "14.5 Oz.",
+        "average_weight": "$3.30/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-protein-plus-angel-hair/766416?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3PzubszLXYNwDbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Protein Plus Angel Hair"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Traditional Sweet Basil di Campania Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-traditional-sweet-basil-di-campania-pasta-sauce/724570?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbuyZrJlLNJKH7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Traditional Sweet Basil di Campania Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Orzo Pasta",
+        "brand": "Barilla",
+        "price": "1.79",
+        "size": "16 Oz.",
+        "average_weight": "$1.79/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-orzo-pasta/1008926?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3Py4UfAk8pAMfbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Orzo Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Hannaford Family Favorites Tomato Basil Pasta Sauce",
+        "brand": "Hannaford",
+        "price": "1.99",
+        "size": "24 Oz.",
+        "average_weight": "$1.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-family-favorites-tomato-basil-pasta-sauce/1003451?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XJsqWQrsgGZS7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Family Favorites Tomato Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Tomato & Basil di Napoli Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-tomato-basil-di-napoli-pasta-sauce/724558?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbt1h91C/jgsYbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Tomato & Basil di Napoli Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Four Cheese Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-four-cheese-pasta-sauce/724561?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbu7j/5pGcT36rOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Four Cheese Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Rao's Marinara Pasta Sauce",
+        "brand": "Rao's",
+        "price": "8.88",
+        "size": "32 Oz.",
+        "average_weight": "$4.44/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/rao-s-marinara-pasta-sauce/817097?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fiJdjJjHgNpPCVqzXfcvYLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Rao's Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Hannaford Farfalle Pasta",
+        "brand": "Hannaford",
+        "price": "1.29",
+        "size": "12 Oz.",
+        "average_weight": "$1.72/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-farfalle-pasta/726149?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XLnvG39X3WtzrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Farfalle Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Hannaford Meat Pasta Sauce",
+        "brand": "Hannaford",
+        "price": "1.99",
+        "size": "24 Oz.",
+        "average_weight": "$1.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-meat-pasta-sauce/870599?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XIaGB8YDr1wZ7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Meat Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Rao's Tomato & Basil Pasta Sauce",
+        "brand": "Rao's",
+        "price": "6.69",
+        "size": "24 Oz.",
+        "average_weight": "$4.46/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/rao-s-tomato-basil-pasta-sauce/817113?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fiJdjJjHgNqz6EH0qiO6VLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Rao's Tomato & Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Angel Hair Pasta",
+        "brand": "Barilla",
+        "price": "1.79",
+        "size": "16 Oz.",
+        "average_weight": "$1.79/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-angel-hair-pasta/766395?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3PyL55EUqcg0+7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Angel Hair Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Nature's Promise Organic Traditional Pasta Sauce",
+        "brand": "Nature's Promise",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-organic-traditional-pasta-sauce/1015295?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYjgwMniRKoDBLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Organic Traditional Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bertolli Alfredo Pasta Sauce",
+        "brand": "Bertolli",
+        "price": "3.49",
+        "size": "15 Oz.",
+        "average_weight": "$3.72/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bertolli-alfredo-pasta-sauce/719679?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQJfZr58msGULbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Bertolli Alfredo Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Hannaford Traditional Pasta Sauce",
+        "brand": "Hannaford",
+        "price": "3.25",
+        "size": "45 Oz.",
+        "average_weight": "$1.16/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-traditional-pasta-sauce/876727?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XJhx+csaMnN6rOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Traditional Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Hannaford Ditalini Pasta",
+        "brand": "Hannaford",
+        "price": "1.29",
+        "size": "16 Oz.",
+        "average_weight": "$1.29/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/hannaford-ditalini-pasta/727040?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=7UUQDURB/XIJNcDUffKriLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Hannaford Ditalini Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bove's Marinara Pasta Sauce",
+        "brand": "Bove's",
+        "price": "4.99",
+        "size": "24 Oz.",
+        "average_weight": "$3.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bove-s-marinara-pasta-sauce/802941?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fZgezTEOjyDnpPMUGkQMRbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Bove's Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Newman's Own Tomato & Basil Pasta Sauce",
+        "brand": "Newman's Own",
+        "price": "2.99",
+        "size": "24 Oz.",
+        "average_weight": "$1.99/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/newman-s-own-tomato-basil-pasta-sauce/981271?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=8iyxSbgi3L5k0hy0kJTqPLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Newman's Own Tomato & Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Taste of Inspirations Marinara Pasta Sauce",
+        "brand": "Taste of Inspirations",
+        "price": "4.39",
+        "size": "24 Oz.",
+        "average_weight": "$2.93/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/taste-of-inspirations-marinara-pasta-sauce/1014237?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAsD6f0uSz8g2rEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Taste of Inspirations Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Fire Roasted Tomato & Garlic di Siena Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-fire-roasted-tomato-garlic-di-siena-pasta-sauce/724555?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbtl6sd6QeMIB7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Fire Roasted Tomato & Garlic di Siena Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Cabernet Marinara w/Herbs Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-cabernet-marinara-w-herbs-pasta-sauce/724573?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbuEjxw8YN91wLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Cabernet Marinara w/Herbs Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Roasted Garlic Alfredo di Sorrento Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.79",
+        "size": "15 Oz.",
+        "average_weight": "$4.04/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-roasted-garlic-alfredo-di-sorrento-pasta-sauce/724563?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbvMmfWxNyS1A7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Roasted Garlic Alfredo di Sorrento Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Roasted Garlic Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-roasted-garlic-pasta-sauce/724568?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbsqQzlJrYjJZ7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Roasted Garlic Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Creamy Alfredo di Roma Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.79",
+        "size": "15 Oz.",
+        "average_weight": "$4.04/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-creamy-alfredo-di-roma-pasta-sauce/724562?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbvVBHy4wPdv5LOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Creamy Alfredo di Roma Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Tomato & Basil Pasta Sauce",
+        "brand": "Classico",
+        "price": "6.89",
+        "size": "48 Oz. - 2-Pack",
+        "average_weight": "$2.30/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-tomato-basil-pasta-sauce/973495?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=bRH0SP60mH8mpvsb8i6DDrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Tomato & Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Gluten Free Penne Pasta",
+        "brand": "Barilla",
+        "price": "2.99",
+        "size": "12 Oz.",
+        "average_weight": "$3.99/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-gluten-free-penne-pasta/942298?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3Px8oB/vyB0UnbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Gluten Free Penne Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Ragu Simply Traditional Pasta Sauce",
+        "brand": "RAGU",
+        "price": "2.59",
+        "size": "24 Oz.",
+        "average_weight": "$1.73/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/ragu-simply-traditional-pasta-sauce/967631?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQKez9DZFaMV6LOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Ragu Simply Traditional Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Ragu Old World Style Traditional Pasta Sauce",
+        "brand": "RAGU",
+        "price": "4.39",
+        "size": "45 Oz.",
+        "average_weight": "$1.56/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/ragu-old-world-style-traditional-pasta-sauce/719630?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQK/q++uWTqF9LOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Ragu Old World Style Traditional Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Marinara with Plum Tomatoes Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-marinara-with-plum-tomatoes-pasta-sauce/724577?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbsv2Ss2C5Y7V7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Marinara with Plum Tomatoes Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bove's Basil Pasta Sauce",
+        "brand": "Bove's",
+        "price": "4.99",
+        "size": "24 Oz.",
+        "average_weight": "$3.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bove-s-basil-pasta-sauce/802946?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fZgezTEOjyALKKIsGy/FUrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Bove's Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Taste of Inspirations Tomato Basil Pasta Sauce",
+        "brand": "Taste of Inspirations",
+        "price": "4.39",
+        "size": "24 Oz.",
+        "average_weight": "$2.93/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/taste-of-inspirations-tomato-basil-pasta-sauce/1008582?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAuA0AnsMk62ArEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Taste of Inspirations Tomato Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Rao's Arrabiatta Pasta Sauce",
+        "brand": "Rao's",
+        "price": "6.69",
+        "size": "24 Oz.",
+        "average_weight": "$4.46/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/rao-s-arrabiatta-pasta-sauce/817099?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fiJdjJjHgNrTsT+h1i3ITrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Rao's Arrabiatta Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Spicy Tomato & Basil Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-spicy-tomato-basil-pasta-sauce/852666?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbva42xxgxP/K7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Spicy Tomato & Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Rao's Roasted Garlic Pasta Sauce",
+        "brand": "Rao's",
+        "price": "6.69",
+        "size": "24 Oz.",
+        "average_weight": "$4.46/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/rao-s-roasted-garlic-pasta-sauce/950682?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fiJdjJjHgNpk0+fhNlfwoLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Rao's Roasted Garlic Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Barilla Marinara Pasta Sauce",
+        "brand": "Barilla",
+        "price": "3.19",
+        "size": "24 Oz.",
+        "average_weight": "$2.13/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-marinara-pasta-sauce/807483?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=SzHlamUgu5hz5smK885TX7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Barilla Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Taste of Inspirations Arrabbiata Pasta Sauce",
+        "brand": "Taste of Inspirations",
+        "price": "4.39",
+        "size": "24 Oz.",
+        "average_weight": "$2.93/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/taste-of-inspirations-arrabbiata-pasta-sauce/1008583?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAs4OvPF/1w/KrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Taste of Inspirations Arrabbiata Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Ragu Old World Style Marinara Pasta Sauce",
+        "brand": "RAGU",
+        "price": "2.59",
+        "size": "23.9 Oz.",
+        "average_weight": "$1.73/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/ragu-old-world-style-marinara-pasta-sauce/849330?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQKRRLV10x8h9rOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Ragu Old World Style Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Spicy Red Pepper di Roma Arrabbiata Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-spicy-red-pepper-di-roma-arrabbiata-pasta-sauce/724560?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbu63hgdOMKI1LOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Spicy Red Pepper di Roma Arrabbiata Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Prince Angel Hair Pasta",
+        "brand": "Prince",
+        "price": "1.55",
+        "size": "16 Oz.",
+        "average_weight": "$1.55/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/prince-angel-hair-pasta/910911?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbsuaz+bt3a0rrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Prince Angel Hair Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bertolli Vodka Pasta Sauce",
+        "brand": "Bertolli",
+        "price": "3.49",
+        "size": "24 Oz.",
+        "average_weight": "$2.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bertolli-vodka-pasta-sauce/719684?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQLD6h7SzfXPSLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Bertolli Vodka Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bertolli Tomato & Basil Pasta Sauce",
+        "brand": "Bertolli",
+        "price": "3.49",
+        "size": "24 Oz.",
+        "average_weight": "$2.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bertolli-tomato-basil-pasta-sauce/719681?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQLLx0sWyILgirOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Bertolli Tomato & Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Barilla Tomato & Basil Pasta Sauce",
+        "brand": "Barilla",
+        "price": "3.19",
+        "size": "24 Oz.",
+        "average_weight": "$2.13/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-tomato-basil-pasta-sauce/807485?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=SzHlamUgu5i4GzcbyRu6TLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Barilla Tomato & Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Muir Glen Organic Classic Marinara Pasta Sauce",
+        "brand": "Muir Glen",
+        "price": "4.49",
+        "size": "23.5 Oz.",
+        "average_weight": "$3.06/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/muir-glen-organic-classic-marinara-pasta-sauce/1037770?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAuw2Bl8UFwLwbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Muir Glen Organic Classic Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Mezzetta Homemade Tomato & Sweet Basil Pasta Sauce",
+        "brand": "Mezzetta",
+        "price": "4.99",
+        "size": "25 Oz.",
+        "average_weight": "$3.19/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/mezzetta-homemade-tomato-sweet-basil-pasta-sauce/758674?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=5qP85viy/VjzAIko5KzdTbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Mezzetta Homemade Tomato & Sweet Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Taste Of Inspirations Romano Pomodoro Pasta Sauce",
+        "brand": "Taste of Inspirations",
+        "price": "4.39",
+        "size": "24 Oz.",
+        "average_weight": "$2.93/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/taste-of-inspirations-romano-pomodoro-pasta-sauce/1038911?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAuymKxMo80AMbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Taste Of Inspirations Romano Pomodoro Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bertolli Burgundy Wine Marinara Pasta Sauce",
+        "brand": "Bertolli",
+        "price": "3.49",
+        "size": "24 Oz.",
+        "average_weight": "$2.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bertolli-burgundy-wine-marinara-pasta-sauce/719682?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQLVa73ktdkSV7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Bertolli Burgundy Wine Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Barilla Traditional Pasta Sauce",
+        "brand": "Barilla",
+        "price": "3.19",
+        "size": "24 Oz.",
+        "average_weight": "$2.13/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-traditional-pasta-sauce/915096?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3PzH8gKHLCIK9bOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Traditional Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Barilla Mini Farfalle Pasta",
+        "brand": "Barilla",
+        "price": "1.79",
+        "size": "16 Oz.",
+        "average_weight": "$1.79/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-mini-farfalle-pasta/766424?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=vYPFPMVQ3PyBC2CrPWB2rLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Barilla Mini Farfalle Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Newman's Own Organics Marinara Pasta Sauce",
+        "brand": "Newman's Own",
+        "price": "4.99",
+        "size": "23.5 Oz.",
+        "average_weight": "$3.40/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/newman-s-own-organics-marinara-pasta-sauce/701404?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=8iyxSbgi3L4vn303KtMearOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Newman's Own Organics Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Newman's Own Roasted Garlic Pasta Sauce",
+        "brand": "Newman's Own",
+        "price": "2.99",
+        "size": "24 Oz.",
+        "average_weight": "$1.99/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/newman-s-own-roasted-garlic-pasta-sauce/981268?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=8iyxSbgi3L6Ge2OvTEtTLLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Newman's Own Roasted Garlic Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Organico Bello Organic Tomato Basil Pasta Sauce",
+        "brand": "Organico Bello",
+        "price": "7.19",
+        "size": "25 Oz.",
+        "average_weight": "$4.60/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/organico-bello-organic-tomato-basil-pasta-sauce/927004?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=UW5YDIyew9G2Izt9LNka77EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Organico Bello Organic Tomato Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bertolli Olive Oil & Garlic Pasta Sauce",
+        "brand": "Bertolli",
+        "price": "3.49",
+        "size": "24 Oz.",
+        "average_weight": "$2.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bertolli-olive-oil-garlic-pasta-sauce/719683?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQK/ZSPeZuvyLrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Bertolli Olive Oil & Garlic Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Organico Bello Organic Marinara Pasta Sauce",
+        "brand": "Organico Bello",
+        "price": "7.19",
+        "size": "25 Oz.",
+        "average_weight": "$4.60/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/organico-bello-organic-marinara-pasta-sauce/927005?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=UW5YDIyew9Ec/PwrA2R/EbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Organico Bello Organic Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bove's Roasted Garlic Pasta Sauce",
+        "brand": "Bove's",
+        "price": "4.99",
+        "size": "24 Oz.",
+        "average_weight": "$3.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bove-s-roasted-garlic-pasta-sauce/802942?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fZgezTEOjyCUfLmFM8/5rbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Bove's Roasted Garlic Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Nature's Promise Organic Parmesan Pasta Sauce",
+        "brand": "Nature's Promise",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-organic-parmesan-pasta-sauce/1015296?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYi7XzY7usgfg7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Organic Parmesan Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Rao's Vodka Pasta Sauce",
+        "brand": "Rao's",
+        "price": "6.69",
+        "size": "24 Oz.",
+        "average_weight": "$4.46/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/rao-s-vodka-pasta-sauce/817105?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fiJdjJjHgNoiqY+YwTppK7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Rao's Vodka Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bove's Vodka Pasta Sauce",
+        "brand": "Bove's",
+        "price": "4.99",
+        "size": "24 Oz.",
+        "average_weight": "$3.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bove-s-vodka-pasta-sauce/802944?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fZgezTEOjyBsidRSUW90BbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Bove's Vodka Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Newman's Own Organics Tomato & Basil Pasta Sauce",
+        "brand": "Newman's Own",
+        "price": "4.99",
+        "size": "23.5 Oz.",
+        "average_weight": "$3.40/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/newman-s-own-organics-tomato-basil-pasta-sauce/701405?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=8iyxSbgi3L7gUt7TklPx7bOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Newman's Own Organics Tomato & Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "It's Skinny Pasta Fettuccini",
+        "brand": "It's Skinny",
+        "price": "2.99",
+        "size": "9.52 Oz.",
+        "average_weight": "$5.03/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/it-s-skinny-pasta-fettuccini/1019995?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXWGrjurjgVZtLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "It's Skinny Pasta Fettuccini"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bertolli Organic Olive Oil & Basil Pasta Sauce",
+        "brand": "Bertolli",
+        "price": "4.99",
+        "size": "24 Oz.",
+        "average_weight": "$3.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bertolli-organic-olive-oil-basil-pasta-sauce/719686?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQLzXdeiTNsakrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Bertolli Organic Olive Oil & Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "DelGrosso Organic Marinara Pasta Sauce",
+        "brand": "DelGrosso",
+        "price": "4.59",
+        "size": "24 Oz.",
+        "average_weight": "$3.06/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/delgrosso-organic-marinara-pasta-sauce/926714?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=y3yp2CEGbSucqt1IZCugyrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "DelGrosso Organic Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "DelGrosso Organic Tomato Basil Premium Pasta Sauce",
+        "brand": "DelGrosso",
+        "price": "4.59",
+        "size": "24 Oz.",
+        "average_weight": "$3.06/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/delgrosso-organic-tomato-basil-premium-pasta-sauce/915540?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=y3yp2CEGbSudPrH4rMhISrOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "DelGrosso Organic Tomato Basil Premium Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Fody Low Fodmap Top-Notch Tomato Basil Pasta Sauce",
+        "brand": "Fody",
+        "price": "7.99",
+        "size": "19.4 Oz.",
+        "average_weight": "$6.59/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/fody-low-fodmap-top-notch-tomato-basil-pasta-sauce/1001863?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=JDfypDv8pzosjcSiZnSJjrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Fody Low Fodmap Top-Notch Tomato Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Organico Bello Organic Spicy Marinara Pasta Sauce",
+        "brand": "Organico Bello",
+        "price": "7.19",
+        "size": "25 Oz.",
+        "average_weight": "$4.60/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/organico-bello-organic-spicy-marinara-pasta-sauce/927006?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=UW5YDIyew9F6I16yz1vJXLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Organico Bello Organic Spicy Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Fody Low Fodmap Must Have Marinara Pasta Sauce",
+        "brand": "Fody",
+        "price": "7.99",
+        "size": "19.4 Oz.",
+        "average_weight": "$6.59/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/fody-low-fodmap-must-have-marinara-pasta-sauce/1001862?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=JDfypDv8pzrwLLez8qgIi7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Fody Low Fodmap Must Have Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Taste of Inspirations Roasted Garlic Pasta Sauce",
+        "brand": "Taste of Inspirations",
+        "price": "4.39",
+        "size": "24 Oz.",
+        "average_weight": "$2.93/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/taste-of-inspirations-roasted-garlic-pasta-sauce/1008580?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAtwProBUkNeD7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Taste of Inspirations Roasted Garlic Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Nature's Promise Organic Rotini Pasta",
+        "brand": "Nature's Promise",
+        "price": "2.59",
+        "size": "16 Oz.",
+        "average_weight": "$2.59/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-organic-rotini-pasta/977309?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYipjM9oeWyH5rEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Organic Rotini Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Prego Italian Sausage & Garlic Pasta Sauce",
+        "brand": "Prego",
+        "price": "4.67",
+        "size": "44 Oz.",
+        "average_weight": "$1.48/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/prego-italian-sausage-garlic-pasta-sauce/982012?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=G8t54siIahEHSI32zsI9V7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Prego Italian Sausage & Garlic Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Taste Of Inspirations Vodka Pasta Sauce",
+        "brand": "Taste of Inspirations",
+        "price": "4.39",
+        "size": "24 Oz.",
+        "average_weight": "$2.93/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/taste-of-inspirations-vodka-pasta-sauce/1038910?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAuUAv7DEMK3kLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Taste Of Inspirations Vodka Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Classico Vodka Pasta Sauce",
+        "brand": "Classico",
+        "price": "3.99",
+        "size": "24 Oz.",
+        "average_weight": "$2.66/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/classico-vodka-pasta-sauce/940883?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=lxjM0N3DKbs92hCN8u1zi7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Classico Vodka Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Ragu Simply Chunky Marinara Pasta Sauce",
+        "brand": "RAGU",
+        "price": "2.59",
+        "size": "24 Oz.",
+        "average_weight": "$1.73/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/ragu-simply-chunky-marinara-pasta-sauce/967632?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQJYoiqtQ1EIOLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Ragu Simply Chunky Marinara Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Jovial Organic Gluten Free Egg Pasta",
+        "brand": "jovial",
+        "price": "5.65",
+        "size": "9 Oz.",
+        "average_weight": "$10.04/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jovial-organic-gluten-free-egg-pasta/967058?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5enocfM1Qb/K7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Jovial Organic Gluten Free Egg Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bertolli Italian Sausage Pasta Sauce",
+        "brand": "Bertolli",
+        "price": "3.49",
+        "size": "24 Oz.",
+        "average_weight": "$2.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bertolli-italian-sausage-pasta-sauce/719676?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQIEDl2YO87UILOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Bertolli Italian Sausage Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Good Wheat Rotini High Fiber Pasta",
+        "brand": "Good Wheat",
+        "price": "2.49",
+        "size": "12 Oz.",
+        "average_weight": "$3.32/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/good-wheat-rotini-high-fiber-pasta/1040934?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXWjo6i+kdWQbbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Good Wheat Rotini High Fiber Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Barilla Roasted Garlic Pasta Sauce",
+        "brand": "Barilla",
+        "price": "3.19",
+        "size": "24 Oz.",
+        "average_weight": "$2.13/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/barilla-roasted-garlic-pasta-sauce/807486?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=SzHlamUgu5hi+TTsWWf4sLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Barilla Roasted Garlic Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "DeLallo Egg Fettuccine Pasta",
+        "brand": "DeLallo",
+        "price": "3.99",
+        "size": "8.8 Oz.",
+        "average_weight": "$7.26/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/delallo-egg-fettuccine-pasta/1027206?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=jBft5RyRjRlTYtfbeBRowbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "DeLallo Egg Fettuccine Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Rao's Vodka Pasta Sauce",
+        "brand": "Rao's",
+        "price": "8.88",
+        "size": "32 Oz.",
+        "average_weight": "$4.44/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/rao-s-vodka-pasta-sauce/1038849?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=fiJdjJjHgNqHOs2OOVycfLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Rao's Vodka Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Bertolli Five Cheese Pasta Sauce",
+        "brand": "Bertolli",
+        "price": "3.49",
+        "size": "24 Oz.",
+        "average_weight": "$2.33/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bertolli-five-cheese-pasta-sauce/852363?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=ENb257f6zQKuycaESWZtX7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Bertolli Five Cheese Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Delallo Pasta Shellbows",
+        "brand": "DeLallo",
+        "price": "3.49",
+        "size": "16 Oz.",
+        "average_weight": "$3.49/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/delallo-pasta-shellbows/1027303?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=jBft5RyRjRlLNfj1FqYBsLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Delallo Pasta Shellbows"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Good Wheat Fettuccine High Fiber Pasta",
+        "brand": "Good Wheat",
+        "price": "2.49",
+        "size": "12 Oz.",
+        "average_weight": "$3.32/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/good-wheat-fettuccine-high-fiber-pasta/1040936?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXV77WcKeAFG3LEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Good Wheat Fettuccine High Fiber Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "DelGrosso Organic Roasted Garlic Premium Pasta Sauce",
+        "brand": "DelGrosso",
+        "price": "4.59",
+        "size": "24 Oz.",
+        "average_weight": "$3.06/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/delgrosso-organic-roasted-garlic-premium-pasta-sauce/915541?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=y3yp2CEGbSvWDgbPkKuJlbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "DelGrosso Organic Roasted Garlic Premium Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Jovial Organic Brown Rice Penne Pasta",
+        "brand": "jovial",
+        "price": "4.79",
+        "size": "12 Oz. - Gluten Free",
+        "average_weight": "$6.39/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jovial-organic-brown-rice-penne-pasta/967056?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5dAuxbyT+jaF7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Jovial Organic Brown Rice Penne Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Nature's Promise Organic Penne Pasta",
+        "brand": "Nature's Promise",
+        "price": "2.59",
+        "size": "16 Oz.",
+        "average_weight": "$2.59/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-organic-penne-pasta/977308?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYiYGwdViaUVdbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Organic Penne Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "It's Skinny Pasta Spaghetti",
+        "brand": "It's Skinny",
+        "price": "2.99",
+        "size": "9.52 Oz.",
+        "average_weight": "$5.03/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/it-s-skinny-pasta-spaghetti/1019994?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXXfdIqJd0dR/bEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "It's Skinny Pasta Spaghetti"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Nature's Promise Organic Elbow Pasta",
+        "brand": "Nature's Promise",
+        "price": "2.59",
+        "size": "16 OZ.",
+        "average_weight": "$2.59/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-organic-elbow-pasta/977305?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYjMyyfj4JaJLbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Organic Elbow Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "De Cecco Thin Spaghetti Pasta",
+        "brand": "De Cecco",
+        "price": "2.79",
+        "size": "16 Oz.",
+        "average_weight": "$2.79/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/de-cecco-thin-spaghetti-pasta/706171?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=J1XI/LwXtqWWBNU5WaB/Z7OI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "De Cecco Thin Spaghetti Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Nature's Promise Gluten Free Red Lentil Penne Pasta",
+        "brand": "Nature's Promise",
+        "price": "3.39",
+        "size": "8.8 Oz.",
+        "average_weight": "$6.16/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-gluten-free-red-lentil-penne-pasta/1008945?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYj+myFU0rQy6rEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Gluten Free Red Lentil Penne Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Good Wheat Elbows High Fiber Pasta",
+        "brand": "Good Wheat",
+        "price": "2.49",
+        "size": "12 Oz.",
+        "average_weight": "$3.32/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/good-wheat-elbows-high-fiber-pasta/1040933?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXU0+guyAgJXzbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Good Wheat Elbows High Fiber Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Dreamfields Elbows Pasta",
+        "brand": "Dreamfields",
+        "price": "2.49",
+        "size": "13.25 Oz.",
+        "average_weight": "$3.01/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/dreamfields-elbows-pasta/819109?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=OI0KMYxPSLWvop++MQYe+rEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Dreamfields Elbows Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "It's Skinny Pasta Angel Hair",
+        "brand": "It's Skinny",
+        "price": "2.99",
+        "size": "9.52 Oz.",
+        "average_weight": "$5.03/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/it-s-skinny-pasta-angel-hair/1019996?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXWGouvFHuLo8bEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "It's Skinny Pasta Angel Hair"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Banza Rigatoni Chickpea Pasta",
+        "brand": "Banza",
+        "price": "3.79",
+        "size": "8 Oz.",
+        "average_weight": "$7.58/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/banza-rigatoni-chickpea-pasta/1010499?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=0RFid/9gOfls6f+hO9Xn2rEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Banza Rigatoni Chickpea Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Dreamfields Angel Hair Pasta",
+        "brand": "Dreamfields",
+        "price": "2.49",
+        "size": "13.25 Oz.",
+        "average_weight": "$3.01/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/dreamfields-angel-hair-pasta/819107?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=OI0KMYxPSLWTQlNv61RIOrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Dreamfields Angel Hair Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Delallo Pasta Cavatappi",
+        "brand": "DeLallo",
+        "price": "3.49",
+        "size": "16 Oz.",
+        "average_weight": "$3.49/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/delallo-pasta-cavatappi/1027302?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=jBft5RyRjRnTScxsV++dLLOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Delallo Pasta Cavatappi"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Good Wheat Penne High Fiber Pasta",
+        "brand": "Good Wheat",
+        "price": "2.49",
+        "size": "12 Oz.",
+        "average_weight": "$3.32/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/good-wheat-penne-high-fiber-pasta/1040932?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXXttU1lUPuU+7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Good Wheat Penne High Fiber Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Dreamfields Penne Pasta",
+        "brand": "Dreamfields",
+        "price": "2.49",
+        "size": "13.25 Oz.",
+        "average_weight": "$3.01/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/dreamfields-penne-pasta/819110?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=OI0KMYxPSLV5kdh6fMFw7rEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Dreamfields Penne Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Muir Glen Organic Tomato & Basil Pasta Sauce",
+        "brand": "Muir Glen",
+        "price": "4.49",
+        "size": "25.5 Oz.",
+        "average_weight": "$3.06/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/muir-glen-organic-tomato-basil-pasta-sauce/1037599?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAv3iF2TSVxa97EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Muir Glen Organic Tomato & Basil Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Nature's Promise Gluten Free Red Lentil Spaghetti Pasta",
+        "brand": "Nature's Promise",
+        "price": "3.39",
+        "size": "8.8 Oz.",
+        "average_weight": "$6.16/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-gluten-free-red-lentil-spaghetti-pasta/1008944?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYjE3HzzoKmMhbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Gluten Free Red Lentil Spaghetti Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Colavita Rigatoni Pasta",
+        "brand": "Colavita",
+        "price": "2.49",
+        "size": "16 Oz.",
+        "average_weight": "$2.49/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/colavita-rigatoni-pasta/1017573?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=rWO6d4/PBtVoFm74T3xmNbOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Colavita Rigatoni Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Chickapea Organic Pasta Shells",
+        "brand": "Chickapea",
+        "price": "4.39",
+        "size": "8 Oz.",
+        "average_weight": "$8.78/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/chickapea-organic-pasta-shells/1027211?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=JDfypDv8pzqRa7cf6gQHErEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Chickapea Organic Pasta Shells"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Muir Glen Organic Roasted Garlic Pasta Sauce",
+        "brand": "Muir Glen",
+        "price": "4.49",
+        "size": "23.5 Oz.",
+        "average_weight": "$3.06/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/muir-glen-organic-roasted-garlic-pasta-sauce/1037601?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAsgv4miymDZMLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Muir Glen Organic Roasted Garlic Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Good Wheat Spaghetti High Fiber Pasta",
+        "brand": "Good Wheat",
+        "price": "2.49",
+        "size": "12 Oz.",
+        "average_weight": "$3.32/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/good-wheat-spaghetti-high-fiber-pasta/1040935?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=kBmO2+IWdXUgPkF/cdpocLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Good Wheat Spaghetti High Fiber Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Colavita Cavatappi Pasta",
+        "brand": "Colavita",
+        "price": "2.49",
+        "size": "16 Oz.",
+        "average_weight": "$2.49/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/colavita-cavatappi-pasta/1017574?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=rWO6d4/PBtVUa655bSp9prOI0mZoybxdfnPtoW7oOghi4IZyK2wC0g==",
+                "product_image_alt_text": "Colavita Cavatappi Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Bionaturae Organic Gluten Free Fusilli Pasta",
+        "brand": "Bionaturae",
+        "price": "4.05",
+        "size": "12 Oz.",
+        "average_weight": "$5.40/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bionaturae-organic-gluten-free-fusilli-pasta/821263?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=u0PxxvprDRpYzuVMstBAm7EvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Bionaturae Organic Gluten Free Fusilli Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Nature's Promise Gluten Free Green Pea Penne Pasta",
+        "brand": "Nature's Promise",
+        "price": "3.39",
+        "size": "8.8 Oz.",
+        "average_weight": "$6.16/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/nature-s-promise-gluten-free-green-pea-penne-pasta/1008949?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=mG+/GdHZBYj7iV2ny4acVrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Nature's Promise Gluten Free Green Pea Penne Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Pasta Toscana Organic Spaghetti 6",
+        "brand": "Pasta Toscana",
+        "price": "3.69",
+        "size": "16 Oz.",
+        "average_weight": "$3.69/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/pasta-toscana-organic-spaghetti-6/1039107?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QQpjUxBe/N+HKe2HLZPKXbEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Pasta Toscana Organic Spaghetti 6"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Bionaturae Organic Whole Wheat Fusilli Pasta",
+        "brand": "Bionaturae",
+        "price": "3.89",
+        "size": "16 Oz.",
+        "average_weight": "$3.89/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/bionaturae-organic-whole-wheat-fusilli-pasta/821274?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=u0PxxvprDRrrE/UykH5zsrEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Bionaturae Organic Whole Wheat Fusilli Pasta"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta Sauces",
+        "name": "Muir Glen Organic Italian Herb Pasta Sauce",
+        "brand": "Muir Glen",
+        "price": "4.49",
+        "size": "23.5 Oz.",
+        "average_weight": "$3.06/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/muir-glen-organic-italian-herb-pasta-sauce/1037600?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=QHFqbSWXoAuV4sKF/C9zKLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Muir Glen Organic Italian Herb Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "item": "Pasta",
+        "categories": "Pasta",
+        "name": "Jovial Organic Brown Rice Pasta Elbows",
+        "brand": "jovial",
+        "price": "4.79",
+        "size": "12 Oz. - Gluten Free",
+        "average_weight": "$6.39/Per pound",
+        "images_links": [
+            {
+                "product_url": "https://www.hannaford.com/product/jovial-organic-brown-rice-pasta-elbows/1027183?hdrKeyword=Pasta",
+                "product_image_url": "https://hannaford.gsnrecipes.com/GetImage.aspx?vector=aKI8pKGrw5fkmHs+cyB3TLEvixkLGHpYV8U+j7FPBKIe21xRZClo8jdaqitFi03g",
+                "product_image_alt_text": "Jovial Organic Brown Rice Pasta Elbows"
+            }
+        ]
     }
 ]

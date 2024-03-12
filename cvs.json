@@ -1338,5 +1338,1016 @@
             "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_8.jpg",
             "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_9.jpg"
         ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "yoo-hoo-chocolate-drink-10-ct-6-5-oz",
+        "price": "6.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000016_5.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "horizon-organic-whole-milk-64-oz",
+        "price": "5.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264450.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264450_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264450_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "horizon-organic-2-reduced-fat-milk-64-oz",
+        "price": "5.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264252.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264252_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/742365264252_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "lactaid-2-reduced-fat-milk-64-oz",
+        "price": "5.59",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41383090103.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41383090103_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41383090103_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41383090103_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "blue-diamond-almond-breeze-unsweetened-almond-milk-32-oz",
+        "price": "3.19",
+        "sizes": [
+            "Original",
+            "Vanilla"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570054130.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570054130_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570054130_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570054130_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "almond-breeze-unsweetened-vanilla-almond-milk-64-oz",
+        "price": "4.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056189.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056189_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056189_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056189_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "almond-breeze-unsweetened-original-almond-milk-64-oz",
+        "price": "4.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056707.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056707_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056707_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570056707_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "blue-diamond-almond-breeze-almond-milk-32-oz",
+        "price": "3.19",
+        "sizes": [
+            "Original"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570068274.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570068274_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570068274_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41570068274_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "silk-original-soymilk-32-oz",
+        "price": "3.89",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25293600904.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25293600904_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25293600904_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "planet-oat-oatmilk-52-oz",
+        "price": "4.99",
+        "sizes": [
+            "Vanilla",
+            "Original"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/44100156212.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/44100156212_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/44100156212_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/44100156212_4.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "nestle-coffee-mate-original-powdered-coffee-creamer",
+        "price": "9.29",
+        "sizes": [
+            "French Vanilla",
+            "Original"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_8.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5000020708_9.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "nesquik-chocolate-powder-drink-mix-20-1-oz",
+        "price": "8.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_8.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000428433_9.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "dunkin-coffee-creamer-32-oz",
+        "price": "5.09",
+        "sizes": [
+            "Extra Extra",
+            "Extra Extra Vanilla"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271017885.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271017885_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271017885_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "international-delight-caramel-macchiato-coffee-creamer-32-oz",
+        "price": "4.59",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271009552.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271009552_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/41271009552_3.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "gold-emblem-artificially-flavored-french-vanilla-coffee-creamer-15-oz",
+        "price": "5.19",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042848191_5.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "nestle-media-crema-lite-cream-7-6-oz",
+        "price": "2.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_8.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000304430_9.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "yoo-hoo-strawberry-drink-6-5-oz-boxes-10-ct",
+        "price": "6.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/72350000184_5.jpg"
+        ]
+    },
+    {
+        "item": "Milk",
+        "categories": [
+            "Grocery",
+            "Beverages",
+            "Milk & Creamers"
+        ],
+        "name": "so-delicious-dairy-free-coconutmilk-beverage-unsweetened-vanilla-32-oz",
+        "price": "2.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/744473912322.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Condiments & Spreads"
+        ],
+        "name": "kraft-100-grated-parmesan-cheese-8-oz",
+        "price": "7.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100061531_5.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-shredded-4-cheese-mexican-blend-8-oz",
+        "price": "5.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054961.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054961_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054961_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-shredded-mozzarella-cheese-8-oz",
+        "price": "5.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054954.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054954_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000054954_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-mozzarella-string-cheese-1-oz",
+        "price": "1.09",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000000227.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000000227_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000000227_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "annie-s-homegrown-macoroni-cheese-6-oz",
+        "price": "2.69",
+        "sizes": [
+            "Shells & White Cheddar",
+            "Shells & Real Aged Cheddar"
+        ],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/1356200004.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "doritos-tortilla-chips-nacho-cheese-flavored-2-75-oz",
+        "price": "2.69",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032505.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032505_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032505_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2840032505_4.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Snack & Trail Mix"
+        ],
+        "name": "cheez-it-snack-mix-double-cheese-3-5-oz",
+        "price": "2.59",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/24100577217_6.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-mozzarella-string-cheese-12-ct",
+        "price": "6.69",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000017140.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000017140_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/21000017140_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-velveeta-shells-and-cheese-12-oz",
+        "price": "5.29",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100065893_7.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Jerky & Meat Snacks"
+        ],
+        "name": "jack-link-s-all-american-beef-cheese-twin-pack-1-2-oz",
+        "price": "1.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/1708200039.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "kraft-easy-mac-cup-triple-cheese-2-05-oz",
+        "price": "2.09",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/2100001088.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "cheetos-bold-and-cheesy-mac-n-cheese-5-9-oz",
+        "price": "2.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300014985.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300014985_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300014985_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300014985_4.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "cheetos-flamin-hot-mac-n-cheese-5-6-oz",
+        "price": "2.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300200234.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300200234_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300200234_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15300200234_4.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Chips & Pretzels"
+        ],
+        "name": "dorito-s-nacho-cheese-3-12-oz",
+        "price": "2.69",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28400420730.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/28400420730_2.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Jerky & Meat Snacks"
+        ],
+        "name": "old-wisconsin-beef-stick-cheddar-cheese-smokestack-2-5-oz",
+        "price": "3.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170700001.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170700001_2.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Jerky & Meat Snacks"
+        ],
+        "name": "old-wisconsin-beef-stick-jalapeno-cheese-smokestack-2-5-oz",
+        "price": "3.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170800008.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170800008_2.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Jerky & Meat Snacks"
+        ],
+        "name": "old-wisconsin-beef-stick-cheddar-cheese-smokestack",
+        "price": "1.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/73170223432.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Frozen Food"
+        ],
+        "name": "devour-buffalo-style-chicken-mac-cheese-with-buffalo-cheddar-cheese-sauce-blue-cheese-frozen-meal-12-oz",
+        "price": "5.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25155057044.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25155057044_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/25155057044_3.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Snacks",
+            "Popcorn"
+        ],
+        "name": "pirate-s-booty-cheddar-blast-4-oz",
+        "price": "2.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15665000173.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/15665000173_2.jpg"
+        ]
+    },
+    {
+        "item": "Cheese",
+        "categories": [
+            "Grocery",
+            "Pantry",
+            "Canned & Packaged Food"
+        ],
+        "name": "gold-emblem-fast-favorites-elbow-mac-cheese-8-8-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428630822_5.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Household",
+            "Home & Kitchen"
+        ],
+        "name": "cottondale-easter-pre-filled-eggs-with-die-cast-vehicles-20-ct",
+        "price": "24.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042845678.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042845678_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042845678_3.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Household",
+            "Home & Kitchen"
+        ],
+        "name": "cottondale-easter-pre-filled-eggs-with-toys-24-ct",
+        "price": "19.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042840559.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042840559_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042840559_3.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Household",
+            "Home & Kitchen"
+        ],
+        "name": "cottondale-easter-eggs-solid-patterns-56-ct",
+        "price": "9.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042849852.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042849852_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042849852_3.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "hershey-cadbury-s-creme-eggs-4-ct-4-8-oz",
+        "price": "5.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001145.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001145_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001145_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001145_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001145_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001145_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001145_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001145_8.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chewy & Gummy Candy"
+        ],
+        "name": "brach-s-pastel-malted-milk-eggs-5-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/4142005130.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/4142005130_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/4142005130_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/4142005130_4.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "cadbury-cr-me-egg-milk-chocolate-easter-candy-egg-1-2-oz",
+        "price": "1.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400000686.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400000686_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400000686_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400000686_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400000686_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400000686_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400000686_7.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "ferrero-kinder-joy-eggs-3-ct",
+        "price": "5.89",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/9800570034.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/9800570034_2.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "reese-s-peanut-butter-eggs-6-ct-7-2-oz",
+        "price": "7.49",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400047603.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400047603_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400047603_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400047603_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400047603_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400047603_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400047603_7.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "reeses-s-milk-chocolate-peanut-butter-creme-mini-eggs-8-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400027009.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400027009_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400027009_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400027009_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400027009_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400027009_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400027009_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400027009_8.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "hershey-extra-creamy-eggs-9-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400022112.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400022112_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400022112_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400022112_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400022112_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400022112_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400022112_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400022112_8.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "ferrero-cocoa-eggs-3-5-oz",
+        "price": "5.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/980063012.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/980063012_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/980063012_3.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "reese-s-white-egg-bagged-7-2-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400048204.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400048204_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400048204_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400048204_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400048204_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400048204_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400048204_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400048204_8.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400048204_9.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "hershey-s-polka-dot-cookies-n-cream-eggs-7-oz",
+        "price": "3.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400019646.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400019646_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400019646_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400019646_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400019646_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400019646_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400019646_7.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "kinder-joy-go-wild-egg-0-7-oz",
+        "price": "2.89",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/9800000739.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Household",
+            "Home & Kitchen"
+        ],
+        "name": "mini-eggmazing-egg-decorator",
+        "price": "19.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/86290900047.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/86290900047_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/86290900047_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/86290900047_4.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints"
+        ],
+        "name": "cadbury-mini-eggs-16-oz",
+        "price": "9.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400005778.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400005778_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400005778_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400005778_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400005778_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400005778_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400005778_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400005778_8.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "cadbury-mini-creme-eggs-easter-candy-tray-12-ct-3-8-oz",
+        "price": "6.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001133.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001133_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001133_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001133_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001133_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001133_6.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001133_7.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400001133_8.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "kinder-joy-eggs-3-ct-2-1-oz",
+        "price": "4.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Grocery",
+            "Candy, Gum & Mints",
+            "Chocolates"
+        ],
+        "name": "cadbury-mini-eggs-milk-chocolate-1-5-oz",
+        "price": "1.79",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400007252.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400007252_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400007252_3.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400007252_4.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400007252_5.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/3400007252_6.jpg"
+        ]
+    },
+    {
+        "item": "Eggs",
+        "categories": [
+            "Household",
+            "Home & Kitchen"
+        ],
+        "name": "cottondale-easter-pre-filled-eggs-with-dino-building-blocks-24-ct",
+        "price": "24.99",
+        "sizes": [],
+        "images": [
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042844011.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042844011_2.jpg",
+            "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042844011_3.jpg"
+        ]
     }
 ]

@@ -1,5 +1,589 @@
 [
     {
+        "name": "Oat Milk",
+        "image_url": "//pics.walgreens.com/prodimg/655578/450.jpg",
+        "size": "52 fl oz",
+        "rating": "Walgreens Oat Milk",
+        "review_count": "(3)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "2% Reduced Fat\u00a0(Actual Item May Vary)",
+        "image_url": "//pics.walgreens.com/prodimg/624110/450.jpg",
+        "size": "52 fl oz",
+        "rating": "Fairlife 2% Reduced Fat",
+        "review_count": "(795)",
+        "price_info": "$4.79"
+    },
+    {
+        "name": "Milk 100% Whole\u00a0(Actual Item May Vary)",
+        "image_url": "//pics.walgreens.com/prodimg/468329/450.jpg",
+        "size": "64 OZ",
+        "rating": "Lactaid Milk 100% Whole",
+        "review_count": "(1494)",
+        "price_info": "$4.99"
+    },
+    {
+        "name": "Lactose Free Whole Milk\u00a0(Actual Item May Vary)",
+        "image_url": "//pics.walgreens.com/prodimg/625405/450.jpg",
+        "size": "52 oz",
+        "rating": "Fairlife Lactose Free Whole Milk",
+        "review_count": "(589)",
+        "price_info": "$4.79"
+    },
+    {
+        "name": "2% Reduced Fat Ultra-Filtered Milk",
+        "image_url": "//pics.walgreens.com/prodimg/646103/450.jpg",
+        "size": "14 fl oz",
+        "rating": "Fairlife 2% Reduced Fat Ultra-Filtered Milk",
+        "review_count": "(238)",
+        "price_info": "$2.89"
+    },
+    {
+        "name": "Reduced Fat 2% Milk 1 Gallon\u00a0(Actual Item May Vary)",
+        "image_url": "//pics.walgreens.com/prodimg/418561/450.jpg",
+        "size": "128 oz",
+        "rating": "Prairie Farms Reduced Fat 2% Milk 1 Gallon",
+        "review_count": "(57)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Reduced Fat Milk 2% 1/ 2 Gallon\u00a0(Actual Item May Vary)",
+        "image_url": "//pics.walgreens.com/prodimg/417535/450.jpg",
+        "size": "64 oz",
+        "rating": "Prairie Farms Reduced Fat Milk 2% 1/ 2 Gallon",
+        "review_count": "(29)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk 1/ 2 Gallon\u00a0(Actual Item May Vary)",
+        "image_url": "//pics.walgreens.com/prodimg/417536/450.jpg",
+        "size": "64 oz",
+        "rating": "Prairie Farms Whole Milk 1/ 2 Gallon",
+        "review_count": "(18)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk 1 Gallon\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "128 oz",
+        "rating": "3.5 out of 5 total 49 reviews",
+        "review_count": "(49)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk Half Gallon\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "64 oz",
+        "rating": "3.5 out of 5 total 124 reviews",
+        "review_count": "(124)",
+        "price_info": "$5.49"
+    },
+    {
+        "name": "Whole Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "1 gal",
+        "rating": "4.0 out of 5 total 15 reviews",
+        "review_count": "(15)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Almond Milk Vanilla\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "64 fl oz",
+        "rating": "4.0 out of 5 total 980 reviews",
+        "review_count": "(980)",
+        "price_info": "$5.29"
+    },
+    {
+        "name": "Vitamin D Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "1 gal",
+        "rating": "4.0 out of 5 total 54 reviews",
+        "review_count": "(54)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Half & Half\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "32 fl oz",
+        "rating": "4.0 out of 5 total 34 reviews",
+        "review_count": "(34)",
+        "price_info": "$4.99"
+    },
+    {
+        "name": "Ultra-Filtered Milk Chocolate\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "52 fl oz",
+        "rating": "4.5 out of 5 total 1185 reviews",
+        "review_count": "(1185)",
+        "price_info": "$4.79"
+    },
+    {
+        "name": "Vitamin D Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "0.5 gal",
+        "rating": "4.5 out of 5 total 18 reviews",
+        "review_count": "(18)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Chocolate 2% Ultra-Filtered Milk Chocolate\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "14 fl oz",
+        "rating": "4.5 out of 5 total 283 reviews",
+        "review_count": "(283)",
+        "price_info": "$2.89"
+    },
+    {
+        "name": "Milk, 2% Reduced Fat",
+        "image_url": "Image URL not available",
+        "size": "0.5 gal",
+        "rating": "Rating not available",
+        "review_count": "Review count not available",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "0.5 gal",
+        "rating": "4.0 out of 5 total 5 reviews",
+        "review_count": "(5)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Low Fat 1% Milk 1/ 2 Gallon\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "64 oz",
+        "rating": "3.5 out of 5 total 5 reviews",
+        "review_count": "(5)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "2% Reduced Fat Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "0.5 gal",
+        "rating": "4.0 out of 5 total 24 reviews",
+        "review_count": "(24)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Almond Milk Unsweet Vanilla\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "64 fl oz",
+        "rating": "4.5 out of 5 total 942 reviews",
+        "review_count": "(942)",
+        "price_info": "$5.29"
+    },
+    {
+        "name": "Reduced Fat Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "64 oz",
+        "rating": "3.5 out of 5 total 40 reviews",
+        "review_count": "(40)",
+        "price_info": "old price$5.49strike through2/$9.00 or 1/$4.992/$9.00 or 1/$4.99"
+    },
+    {
+        "name": "2% Ultra-Filtered Milk Strawberry\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "14 fl oz",
+        "rating": "4.5 out of 5 total 125 reviews",
+        "review_count": "(125)",
+        "price_info": "$2.89"
+    },
+    {
+        "name": "Name not available",
+        "image_url": "Image URL not available",
+        "size": "Size not available",
+        "rating": "Rating not available",
+        "review_count": "Review count not available",
+        "price_info": "Price information not available"
+    },
+    {
+        "name": "2% Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "1 gal",
+        "rating": "4.0 out of 5 total 17 reviews",
+        "review_count": "(17)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "2% Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "0.5 gal",
+        "rating": "4.5 out of 5 total 2473 reviews",
+        "review_count": "(2473)",
+        "price_info": "$4.99"
+    },
+    {
+        "name": "Whole Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "1 gal",
+        "rating": "4.0 out of 5 total 10 reviews",
+        "review_count": "(10)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "1 gal",
+        "rating": "3.5 out of 5 total 15 reviews",
+        "review_count": "(15)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_0.png",
+        "size": "1 gal",
+        "rating": "3.0 out of 5 total 7 reviews",
+        "review_count": "(7)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_0.png",
+        "size": "1 gal",
+        "rating": "3.0 out of 5 total 6 reviews",
+        "review_count": "(6)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Dutch Chocolate Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "0.5 gal",
+        "rating": "4.5 out of 5 total 12 reviews",
+        "review_count": "(12)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "2% Reduced Fat Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "1 gal",
+        "rating": "4.0 out of 5 total 36 reviews",
+        "review_count": "(36)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Fat Free Skim 1 Gallon\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "128 oz",
+        "rating": "4.0 out of 5 total 11 reviews",
+        "review_count": "(11)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Fat Free Skim Milk 1/ 2 Gallon\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "64 oz",
+        "rating": "3.5 out of 5 total 3 reviews",
+        "review_count": "(3)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "2% Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "1 gal",
+        "rating": "5.0 out of 5 total 5 reviews",
+        "review_count": "(5)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk Lowfat Chocolate\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "1.89 L",
+        "rating": "4.0 out of 5 total 4 reviews",
+        "review_count": "(4)",
+        "price_info": "$3.99"
+    },
+    {
+        "name": "Milk, Premium, Chocolate\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "64 fl oz",
+        "rating": "3.5 out of 5 total 10 reviews",
+        "review_count": "(10)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk, Vitamin D",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "1 gal",
+        "rating": "3.5 out of 5 total 9 reviews",
+        "review_count": "(9)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-2_5.png",
+        "size": "32 fl oz",
+        "rating": "2.5 out of 5 total 5 reviews",
+        "review_count": "(5)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk, 1% Lowfat",
+        "image_url": "/images/adaptive/bvrating/v5/rating-2_5.png",
+        "size": "1 gal",
+        "rating": "2.5 out of 5 total 2 reviews",
+        "review_count": "(2)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Chocolate Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-2_5.png",
+        "size": "32 fl oz",
+        "rating": "2.5 out of 5 total 2 reviews",
+        "review_count": "(2)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "2% Milk\u00a0(Actual Item May Vary)",
+        "image_url": "Image URL not available",
+        "size": "1 gal",
+        "rating": "Rating not available",
+        "review_count": "Review count not available",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk, 2% Reduced Fat",
+        "image_url": "Image URL not available",
+        "size": "0.5 gal",
+        "rating": "Rating not available",
+        "review_count": "Review count not available",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Fat Free Skim Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "1 gal",
+        "rating": "4.0 out of 5 total 8 reviews",
+        "review_count": "(8)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "1% Lowfat Milk 0.5 gallon\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "64 fl oz",
+        "rating": "3.5 out of 5 total 6 reviews",
+        "review_count": "(6)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk, Fat Free",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "0.5 gal",
+        "rating": "4.0 out of 5 total 3 reviews",
+        "review_count": "(3)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk, 2% Reduced Fat",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+        "size": "1 gal",
+        "rating": "3.5 out of 5 total 3 reviews",
+        "review_count": "(3)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk, 1% Lowfat",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_0.png",
+        "size": "0.5 gal",
+        "rating": "3.0 out of 5 total 2 reviews",
+        "review_count": "(2)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-1_5.png",
+        "size": "1 gal",
+        "rating": "1.5 out of 5 total 2 reviews",
+        "review_count": "(2)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk, Vitamin D",
+        "image_url": "Image URL not available",
+        "size": "0.5 gal",
+        "rating": "Rating not available",
+        "review_count": "Review count not available",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Fat Free Skim Milk 0.5 gallon\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-3_0.png",
+        "size": "64 fl oz",
+        "rating": "3.0 out of 5 total 2 reviews",
+        "review_count": "(2)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Leche Regular Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "120 oz",
+        "rating": "5.0 out of 5 total 7 reviews",
+        "review_count": "(7)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk, Reduced Fat\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "1 gal",
+        "rating": "5.0 out of 5 total 3 reviews",
+        "review_count": "(3)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk, Vitamin D\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "0.5 gal",
+        "rating": "5.0 out of 5 total 2 reviews",
+        "review_count": "(2)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Cinnamilk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "14 oz",
+        "rating": "5.0 out of 5 total 1 reviews",
+        "review_count": "(1)",
+        "price_info": "$2.89"
+    },
+    {
+        "name": "Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "28 oz",
+        "rating": "5.0 out of 5 total 1 reviews",
+        "review_count": "(1)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Reduced Fat Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "28 oz",
+        "rating": "5.0 out of 5 total 1 reviews",
+        "review_count": "(1)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "0.5 gal",
+        "rating": "5.0 out of 5 total 1 reviews",
+        "review_count": "(1)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "1 gal",
+        "rating": "5.0 out of 5 total 1 reviews",
+        "review_count": "(1)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "1 gal",
+        "rating": "5.0 out of 5 total 1 reviews",
+        "review_count": "(1)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Fat Free Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "0.5 gal",
+        "rating": "5.0 out of 5 total 1 reviews",
+        "review_count": "(1)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk",
+        "image_url": "/images/adaptive/bvrating/v5/rating-5_0.png",
+        "size": "0.5 gal",
+        "rating": "5.0 out of 5 total 1 reviews",
+        "review_count": "(1)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Fat Free Milk 1/ 2 Gallon Carton\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "64 Ounces",
+        "rating": "4.5 out of 5 total 572 reviews",
+        "review_count": "(572)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Lowfat Milk 1/ 2 Gallon Carton\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "64 Ounces",
+        "rating": "4.5 out of 5 total 271 reviews",
+        "review_count": "(271)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Fat-Free Milk 1/ 2 Gallon Carton",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+        "size": "64 oz",
+        "rating": "4.5 out of 5 total 48 reviews",
+        "review_count": "(48)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "PureAlmond Milk 1/ 2 Gallon Carton Original\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "64 oz",
+        "rating": "4.0 out of 5 total 2037 reviews",
+        "review_count": "(2037)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "0.5 gal",
+        "rating": "4.0 out of 5 total 8 reviews",
+        "review_count": "(8)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Reduced Fat 2% 1/ 2 Gallon\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "64 Ounces",
+        "rating": "4.0 out of 5 total 3 reviews",
+        "review_count": "(3)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk, Vitamin D\u00a0(Actual Item May Vary)",
+        "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+        "size": "1 gal",
+        "rating": "4.0 out of 5 total 2 reviews",
+        "review_count": "(2)",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Whole Milk",
+        "image_url": "Image URL not available",
+        "size": "14 fl oz",
+        "rating": "Rating not available",
+        "review_count": "Review count not available",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk, Vitamin D",
+        "image_url": "Image URL not available",
+        "size": "1 gal",
+        "rating": "Rating not available",
+        "review_count": "Review count not available",
+        "price_info": "Price available in store"
+    },
+    {
+        "name": "Milk, Vitamin D",
+        "image_url": "Image URL not available",
+        "size": "1 gal",
+        "rating": "Rating not available",
+        "review_count": "Review count not available",
+        "price_info": "Price available in store"
+    },
+    {
         "name": "Singles American Cheese Slices",
         "image_url": "//pics.walgreens.com/prodimg/419650/450.jpg",
         "size": "12 oz",
