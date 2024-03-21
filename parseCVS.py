@@ -6,7 +6,9 @@ all_possible_endings = ["ct", "CT", "oz", "OZ", "mg", "MG", "pack"]
 def contains_substring(main_str, substrings):
     main_str = main_str.lower()  # Convert to lowercase for case-insensitive comparison
     for substring in substrings:
-        if substring.lower() in main_str:
+        sub = substring.lower()
+        # Check if the main string starts or ends with the substring
+        if main_str.startswith(sub) or main_str.endswith(sub):
             return True
     return False
 
@@ -50,14 +52,13 @@ def join_with_apostrophe(words):
 
 # parses the function
 def parseCVS(data):
+    print(data)
     ret = {}
     name_list = data["name"].split("-")
     answer = (get_size_info(name_list));
 
     if (answer[0] != 0):
 
-        # get the name
-        name = answer[1]
         display = True
 
         # there is still something wrong
@@ -66,17 +67,25 @@ def parseCVS(data):
                 display = False
                 break
 
-        if (display): 
-            print("name: ", (answer[1]));
-            print("name: ", join_with_apostrophe(answer[1]))
-            print("size: ", answer[2]);
-            print("quanity: ", answer[3]);
-    
-    return ret
+        if (display == True): 
+            data["name"] = join_with_apostrophe(answer[1])
+            data["size"] = answer[2]
+            data["quantity"] = answer[3]
+            data["count"] = 1
+    return data
 
 with open('cvs.json', 'r') as file:
     data = json.load(file)
 
+results = []
+
 for item in data:
     ret = parseCVS(item)
-    print(ret)
+
+    if (len(ret) != 0):
+        print(ret)
+        print("\n")
+        results.append(ret)
+
+with open('parsed_cvs.json', 'w') as outfile:
+    json.dump(results, outfile, indent=4)
