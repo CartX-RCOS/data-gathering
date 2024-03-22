@@ -40,13 +40,49 @@ def scrape_hannaford(items):
             print(f"Product container not found for {item_name}")
 
     # Save aggregated products data to a JSON file
-    json_file_path = "aggregated_products.json"
+    json_file_path = "test.json"
     with open(json_file_path, 'w', encoding='utf-8') as json_file:
         json.dump(all_products, json_file, indent=4, ensure_ascii=False)
 
     return all_products
 
 # Example usage
-items = ["Chips", "Apples", "Cheese", "Milk"]
-scraped_products = scrape_hannaford(items)
-print("done")
+# items = ["Chips", "Apples", "Cheese", "Milk"]
+# scraped_products = scrape_hannaford(items)
+# print("done")
+
+import json
+
+def split_size(size):
+    size = size.strip()
+    quantity, *size_parts = size.split()
+    size_type = ' '.join(size_parts)
+    return quantity, size_type.lower()
+
+def process_items_from_file(json_file,output_file):
+    with open(json_file, 'r') as f:
+        items = json.load(f)
+
+    modified_items = []  # Store modified items here
+    for item in items:
+        original_size = item.get('size', None)
+        if original_size:
+            quantity, size_type = split_size(original_size)
+            item['quantity'] = quantity
+            
+            if ('.' in size_type):
+                size_type = size_type.replace('.','');
+
+            item['count'] = "1"
+            del item['size']
+            item['size'] = size_type
+            modified_items.append(item)  
+
+    # Print the modified items
+    with open(output_file, 'w') as f:
+        json.dump(modified_items, f, indent=4)
+
+# Example usage
+json_file = 'inventory.hannaford.json' 
+output_file = 'modified_items.json' 
+process_items_from_file(json_file, output_file)
