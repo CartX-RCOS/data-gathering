@@ -1,0 +1,50 @@
+1. Lettuce
+2. Apples
+3. Oranges
+4. Peaches
+5. Prunes
+6. Plums
+7. Strawberries
+8. Raisins
+9. Kiwi
+10. Energy drinks
+11. Pineapple
+12. Bananas
+13. Cauliflower
+14. Broccoli
+15. Carrots
+16. Garlic
+17. Eggs
+18. Bread
+19. Butter
+20. Milk
+21. Jelly
+22. Cheese
+23. Potatoes
+24. Pasta
+25. Ketchup
+26. Yogurt
+27. Cereal
+28. Juice
+29. Ice Cream
+30. Soda
+31. Soup
+32. Mac and Cheese
+33. Ginger
+34. Onions
+35. Flour
+36. Vanilla
+37. Chips
+38. Chocolate Chips
+39. Mayonnaise
+40. Oatmeal
+41. Baby formula
+42. Cooking oil
+43. Salt
+44. Pepper
+45. Noodles
+46. Spaghetti
+47. Sponges
+48. Vinegar
+49. Powder
+50. Baking soda
