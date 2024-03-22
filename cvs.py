@@ -2,6 +2,12 @@ import requests
 import re
 import json
 
+from pymongo import MongoClient 
+client = MongoClient("") 
+mydatabase = client['inventory']
+cvs_collection = mydatabase['cvs'] 
+
+# possible endings
 all_possible_endings = ["ct", "CT", "oz", "OZ", "mg", "MG", "pack"]
 
 # extracts CVS data
@@ -100,6 +106,7 @@ def scrape_cvs(items):
                         processed_product = extractCVSData(item_name, product)
                         if (len(processed_product) != 0):
                             all_products.append(processed_product)
+                    
             else:
                 print(f'productSearchData variable not found in the page for item "{item_name}".')
         else:
@@ -109,11 +116,18 @@ def scrape_cvs(items):
     with open("aggregated_cvs_products.json", 'w', encoding='utf-8') as json_file:
         json.dump(all_products, json_file, indent=4, ensure_ascii=False)
 
-    # make api call to mongo db here!
-
+        # add data to the mongo db database
+        cvs_collection.insert_many(all_products)
     return all_products
 
-# Example usage for multiple items
-items = ["Queso"]
+# Bread
+# Milk
+# Eggs
+# Apples
+# Bananas
+# Pasta
+# Cheese
+# Butter
+
+items = ["Butter"]
 aggregated_data = scrape_cvs(items)
-print(aggregated_data)
