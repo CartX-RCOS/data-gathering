@@ -3,7 +3,7 @@ import re
 import json
 
 from pymongo import MongoClient 
-client = MongoClient("") 
+client = MongoClient("mongodb+srv://CartX:CartXRCOS@cartx.srghpey.mongodb.net/?retryWrites=true&w=majority&appName=CartX") 
 mydatabase = client['inventory']
 cvs_collection = mydatabase['cvs'] 
 
@@ -129,5 +129,5 @@ def scrape_cvs(items):
 # Cheese
 # Butter
 
-items = ["Butter"]
+items = ["Cheese"]
 aggregated_data = scrape_cvs(items)
