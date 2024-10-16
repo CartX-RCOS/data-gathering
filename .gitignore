@@ -135,3 +135,4 @@ venv/
 *.pyc
 __pycache__/
 instance/
+hannaford.json
