@@ -24,7 +24,7 @@ for item in itemsToScrape:
 
     driver.execute_script("window.scrollTo(0, 0);")
     time.sleep(3)  # Allow time to scroll to the top
-se
+
     # go to the search for here and search
     # enter the name in the serach bar
     # let the page load
