@@ -18,7 +18,7 @@ driver.get(url)
 all_products = []
 
 # list of products I need to scrape
-itemsToScrape = ["icecream","chips","bread","milk","eggs","water","soda"]
+itemsToScrape = ["icecream","chips"]
 
 for item in itemsToScrape:
 
