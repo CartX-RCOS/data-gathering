@@ -1,9 +1,56 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException
 import json
+import time
+
 
 # Set up the WebDriver
 driver = webdriver.Chrome()
+
+# Function to close the feedback popup if it appears
+def close_feedback_popup():
+    try:
+        # Locate the "No thanks" button by class name and click it
+        no_thanks_button = driver.find_element(By.CLASS_NAME, 'fsrDeclineButton')
+        no_thanks_button.click()
+        print("Closed the feedback popup by clicking 'No thanks'.")
+        time.sleep(1)
+        return True
+    except NoSuchElementException:
+        # If "No thanks" button is not found, try the close button
+        try:
+            close_button = driver.find_element(By.CLASS_NAME, 'fsrInvite__closeWrapper')
+            close_button.click()
+            print("Closed the feedback popup by clicking the close button.")
+            time.sleep(1)
+            return True
+        except NoSuchElementException:
+            # If no elements are found, return False
+            return False
+
+while True:
+    try:
+        # Check and close the popup if it's present
+        if close_feedback_popup():
+            print("Popup closed. Proceeding to check 'See More' button.")
+
+        # Scroll down to the "See More" button
+        see_more_button = driver.find_element(By.ID, 'see-more-btn')
+        driver.execute_script("arguments[0].scrollIntoView(true);", see_more_button)
+        time.sleep(1)
+
+        # Click the "See More" button
+        see_more_button.click()
+        print("'See More' button clicked.")
+        time.sleep(2)
+
+    except NoSuchElementException:
+        # Break the loop if the "See More" button is not found
+        print("No more 'See More' button found.")
+        break
 
 item = "cookies"
 
