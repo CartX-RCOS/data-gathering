@@ -3,10 +3,49 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
+from pymongo import MongoClient
 import json
 import time
 
-# Set up the WebDriver (Make sure to replace 'path_to_chromedriver' with the actual path)
+# connect to the hannaford database
+# connect to the CartX database
+from pymongo import MongoClient
+
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
+
+# connect to the inventory database
+def get_database():
+   
+   # Get the connection string from the .env file
+    CONNECTION_STRING = os.getenv("MONGO_CONNECTION_STRING")
+
+    if not CONNECTION_STRING:
+        print("Connection string not found in .env file.")
+        return None
+ 
+    try:
+       # Create a connection using MongoClient
+       client = MongoClient(CONNECTION_STRING)
+       
+       # Connect to the inventory database
+       db = client['inventory']
+       
+       # Test connection by checking if the 'hannaford' collection exists
+       if 'hannaford' in db.list_collection_names():
+           print("Connected to the inventory database and found the 'hannaford' collection successfully!")
+       else:
+           print("Connected to the inventory database, but 'hannaford' collection not found.")
+       
+       return db
+    except Exception as e:
+       print(f"Failed to connect to the database: {e}")
+       return None
+
+# Set up the WebDriver
 driver = webdriver.Chrome()
 
 # URL you want to load
@@ -18,7 +57,7 @@ driver.get(url)
 all_products = []
 
 # list of products I need to scrape
-itemsToScrape = ["icecream","chips"]
+itemsToScrape = ["cake"]
 
 for item in itemsToScrape:
 
@@ -99,6 +138,13 @@ for item in itemsToScrape:
 json_file_path = "hannaford.json"
 with open(json_file_path, 'w', encoding='utf-8') as json_file:
     json.dump(all_products, json_file, indent=4, ensure_ascii=False)
+
+
+# Get the hannaford database and automatically adds data to the database
+dbname = get_database()
+hannaford_collection = dbname['hannaford']
+hannaford_collection.insert_many(all_products)
+print("Added data to the database!")
 
 # Close the WebDriver
 driver.quit()
