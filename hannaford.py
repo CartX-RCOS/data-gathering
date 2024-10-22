@@ -128,9 +128,19 @@ for item in itemsToScrape:
             "name": product_div.get('data-name'),
             "price": product_div.get('data-price'),
             "size": product_div.find('span', class_='overline text-truncate').text.strip() if product_div.find('span', class_='overline text-truncate') else 'No size information',
-            "image_links": [product_div.find('img')['src']] if product_div.find('img') else [],
+            "image_links": [],
             "product_url": "https://www.hannaford.com" + product_div.find('div', class_='catalog-product')['data-url'] if product_div.find('div', class_='catalog-product') else 'No URL'
         }
+
+        # Fix the image logic
+        if product_div.find('img'):
+            img_src = product_div.find('img')['src']
+
+            # Check if the image source is the 'no image' tag
+            if img_src == '/assets/hf/assets/images/common/noimage.gif':
+                product_data['image_links'].append('https://eagle-sensors.com/wp-content/uploads/unavailable-image.jpg')
+            else:
+                product_data['image_links'].append(img_src)
 
         # add all products
         all_products.append(product_data)
