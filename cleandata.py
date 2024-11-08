@@ -14,27 +14,55 @@ def read_json(file_path):
     except json.JSONDecodeError:
         print(f"Error: The file {file_path} contains invalid JSON.")
 
-# Basic cleaning function for product data
-def basic_cleaning(product_data):
+# cleaning function for product data
+def enhanced_cleaning(product_data):
     """
-    This function performs basic cleaning on product data
+    this function performs cleaning on product data
     """
+    # Remove extra spaces, ensure it’s a string
     if 'name' in product_data:
         product_data['name'] = re.sub(r'\s+', ' ', product_data['name']).strip().lower()
-    
+    else:
+        product_data['name'] = "Unknown Product"
+
+    # handle empty sizes
     if 'size' in product_data:
         product_data['size'] = re.sub(r'\s+', ' ', product_data['size']).strip()
-    
+    else:
+        product_data['size'] = "N/A" 
+
+    # validate 'rating' 
     if 'rating' in product_data:
         product_data['rating'] = product_data['rating'].strip()
-    
+        if not product_data['rating']:  # Handle cases where rating may be empty
+            product_data['rating'] = "No rating available"
+    else:
+        product_data['rating'] = "No rating available"
+
+    # Extract number of reviews or set default
     if 'review_count' in product_data:
-        product_data['review_count'] = re.sub(r'[^\d]', '', product_data['review_count']).strip()
-    
+        review_count = re.sub(r'[^\d]', '', product_data['review_count']).strip()
+        product_data['review_count'] = int(review_count) if review_count.isdigit() else 0
+    else:
+        product_data['review_count'] = 0
+
+    # Remove placeholder or undefined text
     if 'price_info' in product_data:
         product_data['price_info'] = product_data['price_info'].strip()
-    
+        if "Price available" in product_data['price_info']:  # Handle non-specific price text
+            product_data['price_info'] = "Check in store for price"
+    else:
+        product_data['price_info'] = "Price not available"
+
+    # Validate 'image_url' field
+    if 'image_url' in product_data:
+        if not re.match(r'https?://', product_data['image_url']):
+            product_data['image_url'] = f"https:{product_data['image_url']}" 
+    else:
+        product_data['image_url'] = "https://example.com/placeholder.jpg"
+
     return product_data
+
 
 # Example usage function
 def process_and_clean(file_path):
@@ -46,7 +74,7 @@ def process_and_clean(file_path):
     for product_data in read_json(file_path):
         print(f"Processing product: {product_data.get('name', 'Unnamed Product')}")
         
-        cleaned_data = basic_cleaning(product_data)
+        cleaned_data = enhanced_cleaning(product_data)
         
         cleaned_products.append(cleaned_data)
     
