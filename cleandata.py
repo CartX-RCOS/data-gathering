@@ -1,5 +1,8 @@
 import json
 import re
+import openai
+
+openai.api_key = "YOUR_API_KEY"
 
 def read_json(file_path):
     """
@@ -63,24 +66,61 @@ def enhanced_cleaning(product_data):
 
     return product_data
 
+def enrich_data_with_openai(product_data):
+    """
+    Uses the OpenAI API to generate summaries based on product data.
+    """
+    try:
+        # write a prompt
+        prompt = (f"Provide a summary and key insights for a product in a retail setting.\n\n"
+                  f"Product Name: {product_data.get('name', 'Unknown Product')}\n"
+                  f"Size: {product_data.get('size', 'N/A')}\n"
+                  f"Rating: {product_data.get('rating', 'No rating available')}\n"
+                  f"Review Count: {product_data.get('review_count', 0)}\n"
+                  f"Price Info: {product_data.get('price_info', 'Price not available')}\n"
+                  f"Product Image URL: {product_data.get('image_url', '')}\n\n"
+                  f"Create a helpful summary that includes:\n"
+                  f"1. A brief product description.\n"
+                  f"2. Key highlights based on rating and reviews.\n"
+                  f"3. Any notable considerations or unique attributes.\n\n"
+                  f"Summary:")
+
+        response = openai.Completion.create(
+            engine="text-davinci-003",
+            prompt=prompt,
+            max_tokens=100,
+            temperature=0.7
+        )
+        
+        summary = response.choices[0].text.strip()
+        product_data['openai_summary'] = summary if summary else "No summary available"
+    
+    except openai.error.OpenAIError as e:
+        print(f"Error with OpenAI API: {e}")
+        product_data['openai_summary'] = "Error generating summary"
+    
+    return product_data
 
 # Example usage function
 def process_and_clean(file_path):
     """
-    Reads data from a JSON file, processes each entry with basic cleaning
+    Reads data from a JSON file, processes each entry
     """
-    cleaned_products = []
+    cleanupproducts = []
     
+    # Read, clean, and enrich each product entry
     for product_data in read_json(file_path):
         print(f"Processing product: {product_data.get('name', 'Unnamed Product')}")
         
         cleaned_data = enhanced_cleaning(product_data)
         
-        cleaned_products.append(cleaned_data)
+        enriched_data = enrich_data_with_openai(cleaned_data)
+        
+        cleanupproducts.append(enriched_data)
     
-    return cleaned_products
+    return cleanupproducts
 
-file_path = "products.json"
+file_path = "walgreens.json"
 
 processed_data = process_and_clean(file_path)
 
