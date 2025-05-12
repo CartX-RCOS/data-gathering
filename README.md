@@ -1,6 +1,6 @@
 # 🛒 Data Scraper Pipeline
 
-This repository contains Python scripts and a Node.js backend that scrape pricing and product data from major U.S. retail stores and store the results directly into a MongoDB database.
+This repository contains Python scripts that scrape pricing and product data from major U.S. retail stores and store the results directly into a MongoDB database.
 
 ---
 
