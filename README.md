@@ -26,14 +26,9 @@ cvs.py # Scrapes CVS product data
 hannaford.py # Scrapes Hannaford product data  
 walgreens.py # Scrapes Walgreens product data  
 
-mongodb.js # MongoDB connection logic (Node.js)
-server.js # Node.js server entry point
-package.json # Node.js dependencies and metadata
-
 cvs.json # Sample scraped data from CVS
 hannaford.json # Sample scraped data from Hannaford
 walgreens.json # Sample scraped data from Walgreens
-
 
 ---
 
