@@ -22,9 +22,9 @@ This repository contains Python scripts and a Node.js backend that scrape pricin
 
 ## 🗂️ Project Structure
 
-cvs.py # Scrapes CVS product data
-hannaford.py # Scrapes Hannaford product data
-walgreens.py # Scrapes Walgreens product data
+cvs.py # Scrapes CVS product data  
+hannaford.py # Scrapes Hannaford product data  
+walgreens.py # Scrapes Walgreens product data  
 
 mongodb.js # MongoDB connection logic (Node.js)
 server.js # Node.js server entry point
