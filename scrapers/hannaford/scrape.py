@@ -102,6 +102,10 @@ for item in itemsToScrape:
         else:
             print("Failed to embed product data for:", product_data["name"])
 
+json_file_path = "hannaford.json"
+with open(json_file_path, 'w', encoding='utf-8') as json_file:
+    json.dump(all_products, json_file, indent=4, ensure_ascii=False)
+
 print("Added data to the database!")
 
 # Close the WebDriver
