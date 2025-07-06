@@ -3,6 +3,18 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import time
 import json
+import subprocess
+
+def get_embedding_for_product(product_data):
+    temp_file = "temp_product.json"
+    with open(temp_file, 'w', encoding='utf-8') as temp_json_file:
+        json.dump(product_data, temp_json_file)
+    result = subprocess.run(["node", "../../vectorize.js", temp_file], capture_output=True, text=True)
+    if result.returncode != 0:
+        print("Error running JavaScript code:", result.stderr)
+        return None
+    embedded_product = json.loads(result.stdout)
+    return embedded_product
 
 def scroll_page(url):
     options = webdriver.ChromeOptions()
@@ -85,8 +97,12 @@ with open("../../itemsToScrape.txt", "r", encoding="utf-8") as f:
 allProducts = []
 
 for item in itemsToScrape:
-    scraped_products = scape_walgreens(item)
-    allProducts.append(scraped_products)
+    scraped_product = scape_walgreens(item)
+    embedded_product_data = get_embedding_for_product(scraped_product)
+    if embedded_product_data:
+        allProducts.append(embedded_product_data)
+    else:
+        print("Failed to embed product data for:", scraped_product["name"])
 
 json_file_path = "walgreens.json"
 with open(json_file_path, 'w', encoding='utf-8') as json_file:
