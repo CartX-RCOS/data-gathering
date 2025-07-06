@@ -1,4 +1,7 @@
-name: Weekly Multi-Scrape
+name: Auto Scraper
+
+permissions:
+  contents: write
 
 on:
   schedule:
@@ -18,6 +21,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
       - name: Set up Python
