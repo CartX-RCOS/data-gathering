@@ -24,13 +24,15 @@ def get_embedding_for_product(product_data):
 # Set up the WebDriver
 options = Options()
 options.add_argument("--headless")
-options.add_argument("--window-size=1920,1080")       # important!
+options.add_argument("--window-size=1920,1080")
 driver = webdriver.Chrome(options=options)
 url = f"https://www.hannaford.com/search/product?form_state=searchForm&keyword=cookies&ieDummyTextField=&productTypeId=P"
 driver.get(url)
 
 all_products = []
-itemsToScrape = ["canola oil"]
+
+with open("itemsToScrape.txt", "r", encoding="utf-8") as f:
+    itemsToScrape = [line.strip() for line in f if line.strip()]
 
 for item in itemsToScrape:
     driver.execute_script("window.scrollTo(0, 0);")
@@ -99,10 +101,6 @@ for item in itemsToScrape:
             all_products.append(embedded_product_data)
         else:
             print("Failed to embed product data for:", product_data["name"])
-
-json_file_path = "hannaford.json"
-with open(json_file_path, 'w', encoding='utf-8') as json_file:
-    json.dump(all_products, json_file, indent=4, ensure_ascii=False)
 
 print("Added data to the database!")
 
