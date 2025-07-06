@@ -31,7 +31,7 @@ driver.get(url)
 
 all_products = []
 
-with open("itemsToScrape.txt", "r", encoding="utf-8") as f:
+with open("../../itemsToScrape.txt", "r", encoding="utf-8") as f:
     itemsToScrape = [line.strip() for line in f if line.strip()]
 
 for item in itemsToScrape:
