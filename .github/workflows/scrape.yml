@@ -1,0 +1,53 @@
+name: Weekly Multi-Scrape
+
+on:
+  schedule:
+    - cron: '0 3 * * 0'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        scraper:
+          - hannaford
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Python deps
+        working-directory: scrapers/${{ matrix.scraper }}
+        run: |
+          python3 -m pip install --upgrade pip
+          pip3 install -r requirements.txt
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Node deps
+        run: npm ci
+
+      - name: Run scraper & vectorize
+        run: |
+          cd scrapers/${{ matrix.scraper }}
+          python3 scrape.py
+
+      - name: Commit JSON output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scrapers/${{ matrix.scraper }}/${{ matrix.scraper }}.json
+          git diff --cached --quiet || git commit -m "Update ${{ matrix.scraper }}.json [skip ci]"
+          git push

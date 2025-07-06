@@ -7,36 +7,14 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
-from pymongo import MongoClient
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv()
-
-# Function to get the database connection
-def get_database():
-    CONNECTION_STRING = os.getenv("MONGO_CONNECTION_STRING")
-    if not CONNECTION_STRING:
-        print("Connection string not found in .env file.")
-        return None
-    try:
-        client = MongoClient(CONNECTION_STRING)
-        db = client['inventory']
-        if 'hannaford' in db.list_collection_names():
-            print("Connected to the inventory database and found the 'hannaford' collection successfully!")
-        else:
-            print("Connected to the inventory database, but 'hannaford' collection not found.")
-        return db
-    except Exception as e:
-        print(f"Failed to connect to the database: {e}")
-        return None
+from selenium.webdriver.chrome.options import Options
 
 # Function to get embeddings for a single product
 def get_embedding_for_product(product_data):
     temp_file = "temp_product.json"
     with open(temp_file, 'w', encoding='utf-8') as temp_json_file:
         json.dump(product_data, temp_json_file)
-    result = subprocess.run(["node", "vectorize.js", temp_file], capture_output=True, text=True)
+    result = subprocess.run(["node", "../../vectorize.js", temp_file], capture_output=True, text=True)
     if result.returncode != 0:
         print("Error running JavaScript code:", result.stderr)
         return None
@@ -44,12 +22,15 @@ def get_embedding_for_product(product_data):
     return embedded_product
 
 # Set up the WebDriver
-driver = webdriver.Chrome()
+options = Options()
+options.add_argument("--headless")
+options.add_argument("--window-size=1920,1080")       # important!
+driver = webdriver.Chrome(options=options)
 url = f"https://www.hannaford.com/search/product?form_state=searchForm&keyword=cookies&ieDummyTextField=&productTypeId=P"
 driver.get(url)
 
 all_products = []
-itemsToScrape = ["flower"]
+itemsToScrape = ["canola oil"]
 
 for item in itemsToScrape:
     driver.execute_script("window.scrollTo(0, 0);")
@@ -123,9 +104,6 @@ json_file_path = "hannaford.json"
 with open(json_file_path, 'w', encoding='utf-8') as json_file:
     json.dump(all_products, json_file, indent=4, ensure_ascii=False)
 
-# dbname = get_database()
-# hannaford_collection = dbname['hannaford']
-# hannaford_collection.insert_many(all_products)
 print("Added data to the database!")
 
 # Close the WebDriver
