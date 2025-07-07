@@ -25,14 +25,6 @@
             "price_info": "$7.79$0.13  / ea"
         },
         {
-            "name": "Modern Expressions Monogram Mug M- 1 ea",
-            "image_url": "//pics.walgreens.com/prodimg/676184/450.jpg",
-            "size": "1 ea",
-            "rating": "",
-            "review_count": "(2)",
-            "price_info": "$7.99"
-        },
-        {
             "name": "M&M's Milk Chocolate Candy Pouch Peanut- 1.74 oz",
             "image_url": "//pics.walgreens.com/prodimg/417664/450.jpg",
             "size": "1.74 oz",
@@ -49,14 +41,6 @@
             "price_info": "$5.29$0.53  / ea"
         },
         {
-            "name": "Modern Expressions Monogram Keychain M- 1 EA",
-            "image_url": "//pics.walgreens.com/prodimg/676187/450.jpg",
-            "size": "1 EA",
-            "rating": "",
-            "review_count": "(1)",
-            "price_info": "$5.99"
-        },
-        {
             "name": "G-U-M Soft-Picks Original, Dental Floss Picks- 100 ea",
             "image_url": "//pics.walgreens.com/prodimg/613196/450.jpg",
             "size": "100 ea",
@@ -66,27 +50,19 @@
         },
         {
             "name": "M&M's Milk Chocolate Candy- 1.69 oz",
-            "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+            "image_url": "//pics.walgreens.com/prodimg/578558/450.jpg",
             "size": "1.69 oz",
-            "rating": "4.5 out of 5 total 5146 reviews",
+            "rating": "",
             "review_count": "(5146)",
             "price_info": "Previous price was2/$3.79 or 1/$1.99Current sale price is2/$2.50 or 1/$1.99"
         },
         {
             "name": "M&M's Candy Movie Theater Milk Chocolate- 3.1 oz",
-            "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+            "image_url": "//pics.walgreens.com/prodimg/579010/450.jpg",
             "size": "3.1 oz",
-            "rating": "4.5 out of 5 total 4968 reviews",
+            "rating": "",
             "review_count": "(4968)",
             "price_info": "Previous price was$1.99Current sale price is3/$5.00 or 1/$1.99"
-        },
-        {
-            "name": "Modern Expressions Monogram Mug C- 1 ea",
-            "image_url": "/images/adaptive/share/images/wag_header_logo.png",
-            "size": "1 ea",
-            "rating": "",
-            "review_count": "Review count not available",
-            "price_info": "$7.99"
         },
         {
             "name": "M&M's Peanut Chocolate Candy Theater Box Peanut- 3.1 oz",
@@ -103,14 +79,6 @@
             "rating": "4.0 out of 5 total 107 reviews",
             "review_count": "(107)",
             "price_info": "$9.99$0.11  / ea"
-        },
-        {
-            "name": "Modern Expressions Monogram Mug S- 1 ea",
-            "image_url": "/images/adaptive/share/images/wag_header_logo.png",
-            "size": "1 ea",
-            "rating": "",
-            "review_count": "(2)",
-            "price_info": "$7.99"
         },
         {
             "name": "G-U-M Proxabrush Go-Betweens",
@@ -135,14 +103,6 @@
             "rating": "4.5 out of 5 total 1242 reviews",
             "review_count": "(1242)",
             "price_info": "Previous price was2/$3.79 or 1/$1.99Current sale price is2/$2.50 or 1/$1.99"
-        },
-        {
-            "name": "Modern Expressions Monogram Mug K- 1 ea",
-            "image_url": "/images/adaptive/share/images/wag_header_logo.png",
-            "size": "1 ea",
-            "rating": "",
-            "review_count": "Review count not available",
-            "price_info": "$7.99"
         },
         {
             "name": "M&M's Peanut Butter Chocolate Candy Peanut Butter (Packaging May Vary)- 2.83 oz",
@@ -575,6 +535,46 @@
             "rating": "",
             "review_count": "(90)",
             "price_info": "$32.99"
+        },
+        {
+            "name": "Copper Fit Hand Relief Gloves Black- 1 pr",
+            "image_url": "/images/adaptive/bvrating/v5/rating-3_5.png",
+            "size": "1 pr",
+            "rating": "3.5 out of 5 total 72 reviews",
+            "review_count": "(72)",
+            "price_info": "Previous price was$19.99Current sale price is$9.99Clearance"
+        },
+        {
+            "name": "Hempvana Hemp Extract Gloves- 1 PR",
+            "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+            "size": "1 PR",
+            "rating": "4.0 out of 5 total 44 reviews",
+            "review_count": "(44)",
+            "price_info": "Previous price was$19.99Current sale price is$9.99Clearance"
+        },
+        {
+            "name": "Neo G Diabetic Friendly Comfort Ankle Socks- 2 pr",
+            "image_url": "/images/adaptive/bvrating/v5/rating-4_5.png",
+            "size": "2 pr",
+            "rating": "4.5 out of 5 total 39 reviews",
+            "review_count": "(39)",
+            "price_info": "$15.99"
+        },
+        {
+            "name": "ThermaCare Back Pain Relief Heatwraps- 3 ea",
+            "image_url": "/images/adaptive/bvrating/v5/rating-4_0.png",
+            "size": "3 ea",
+            "rating": "4.0 out of 5 total 204 reviews",
+            "review_count": "(204)",
+            "price_info": "$14.99"
+        },
+        {
+            "name": "Neo G Long Comfort Socks Black- 2 pr",
+            "image_url": "Image URL not available",
+            "size": "2 pr",
+            "rating": "Rating not available",
+            "review_count": "Review count not available",
+            "price_info": "$17.99"
         },
         {
             "name": "Arm & Hammer Clean Scentsations Odor Blasters Fresh Burst- 15 oz",
