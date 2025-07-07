@@ -17,6 +17,7 @@ jobs:
         scraper:
           - hannaford
           - walgreens
+      max-parallel: 1
 
     steps:
       - name: Checkout repo
