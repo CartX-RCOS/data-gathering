@@ -54,7 +54,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
           git add scrapers/${{ matrix.scraper }}/${{ matrix.scraper }}.json
-          git diff --cached --quiet || git commit -m "Update ${{ matrix.scraper }}.json [skip ci]"
-          git push
+          git commit -m "Update ${{ matrix.scraper }}.json"
+          git push --force origin main
